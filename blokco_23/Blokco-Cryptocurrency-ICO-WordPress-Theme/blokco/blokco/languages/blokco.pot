@@ -1,0 +1,6674 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Blokco\n"
+"POT-Creation-Date: 2019-05-25 15:41+0530\n"
+"PO-Revision-Date: 2019-05-25 15:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:31
+msgid "404 Error!"
+msgstr ""
+
+#: 404.php:49
+msgid "Sorry - Page Not Found!"
+msgstr ""
+
+#: 404.php:50
+msgid "The page you are looking for was moved, removed, renamed"
+msgstr ""
+
+#: 404.php:50
+msgid "or might never existed. You stumbled upon a broken link."
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:15
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:15
+msgid "Comment(1)"
+msgstr ""
+
+#: comments.php:15
+msgid "Comments(%)"
+msgstr ""
+
+#: comments.php:37
+msgid "Your name"
+msgstr ""
+
+#: comments.php:40
+msgid "Your email"
+msgstr ""
+
+#: comments.php:43
+msgid "Website (optional)"
+msgstr ""
+
+#: comments.php:51
+msgid "Comments"
+msgstr ""
+
+#: comments.php:60
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:63
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:64
+msgid "Submit"
+msgstr ""
+
+#: framework/barebones-config.php:34 framework/barebones-config.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: framework/barebones-config.php:159
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/barebones-config.php:171
+msgid "General"
+msgstr ""
+
+#: framework/barebones-config.php:176
+msgid "Enable Maintenance"
+msgstr ""
+
+#: framework/barebones-config.php:177
+msgid "Enable the themes in maintenance mode."
+msgstr ""
+
+#: framework/barebones-config.php:179
+msgid "Enabled"
+msgstr ""
+
+#: framework/barebones-config.php:180
+msgid "Disabled"
+msgstr ""
+
+#: framework/barebones-config.php:185
+msgid "Enable Back To Top"
+msgstr ""
+
+#: framework/barebones-config.php:186
+msgid ""
+"Enable the back to top button that appears in the bottom right corner of the "
+"screen."
+msgstr ""
+
+#: framework/barebones-config.php:192
+msgid "Enable website preloader"
+msgstr ""
+
+#: framework/barebones-config.php:193
+msgid ""
+"Enable pre loader screen for the website. Show an animation before the page "
+"loads completely."
+msgstr ""
+
+#: framework/barebones-config.php:200
+msgid "Preloader style"
+msgstr ""
+
+#: framework/barebones-config.php:202
+msgid "Animated full screen"
+msgstr ""
+
+#: framework/barebones-config.php:203
+msgid "Big counter"
+msgstr ""
+
+#: framework/barebones-config.php:204
+msgid "Center circle"
+msgstr ""
+
+#: framework/barebones-config.php:205
+msgid "Corner indicator"
+msgstr ""
+
+#: framework/barebones-config.php:206
+msgid "Fill left"
+msgstr ""
+
+#: framework/barebones-config.php:207
+msgid "Flash"
+msgstr ""
+
+#: framework/barebones-config.php:208
+msgid "Flat top"
+msgstr ""
+
+#: framework/barebones-config.php:209
+msgid "Loading bar"
+msgstr ""
+
+#: framework/barebones-config.php:210
+msgid "Mac OSx"
+msgstr ""
+
+#: framework/barebones-config.php:211
+msgid "Minimal"
+msgstr ""
+
+#: framework/barebones-config.php:219
+msgid "Custom admin login logo"
+msgstr ""
+
+#: framework/barebones-config.php:221
+msgid ""
+"Upload a 254 x 95px image here to replace the default wordpress login logo."
+msgstr ""
+
+#: framework/barebones-config.php:227
+msgid "Space before closing head tag"
+msgstr ""
+
+#: framework/barebones-config.php:228
+msgid "Add your code before closing head tag"
+msgstr ""
+
+#: framework/barebones-config.php:234
+msgid "Space before closing body tag"
+msgstr ""
+
+#: framework/barebones-config.php:235
+msgid "Add your code before closing body tag"
+msgstr ""
+
+#: framework/barebones-config.php:244
+msgid "Responsive"
+msgstr ""
+
+#: framework/barebones-config.php:249
+msgid "Enable Responsive"
+msgstr ""
+
+#: framework/barebones-config.php:250
+msgid "Enable/Disable the responsive behaviour of the theme"
+msgstr ""
+
+#: framework/barebones-config.php:259 framework/meta-boxes.php:17
+msgid "Layout"
+msgstr ""
+
+#: framework/barebones-config.php:265
+msgid "Site Width"
+msgstr ""
+
+#: framework/barebones-config.php:266
+msgid ""
+"Controls the overall site width. Without px, ex: 1170(Default). Recommended "
+"maximum width is 1170 to maintain the theme structure."
+msgstr ""
+
+#: framework/barebones-config.php:273
+msgid "Page Layout"
+msgstr ""
+
+#: framework/barebones-config.php:274
+msgid "Select the page layout type"
+msgstr ""
+
+#: framework/barebones-config.php:285
+msgid "Repeatable Background Images"
+msgstr ""
+
+#: framework/barebones-config.php:286
+msgid "Select image to set in background."
+msgstr ""
+
+#: framework/barebones-config.php:326
+msgid "Upload Repeatable Background Image"
+msgstr ""
+
+#: framework/barebones-config.php:334
+msgid "Upload Full Screen Background Image"
+msgstr ""
+
+#: framework/barebones-config.php:341 framework/meta-boxes.php:29
+msgid "Content"
+msgstr ""
+
+#: framework/barebones-config.php:349
+msgid "Content area Background"
+msgstr ""
+
+#: framework/barebones-config.php:350
+msgid ""
+"Background color or image for the content area. This works for both boxed or "
+"wide layouts."
+msgstr ""
+
+#: framework/barebones-config.php:360
+msgid "Top and Bottom padding for content area"
+msgstr ""
+
+#: framework/barebones-config.php:361
+msgid "Enter top and bottom padding for content area. Default is 50px/50px"
+msgstr ""
+
+#: framework/barebones-config.php:371
+msgid "Minimum Height for Content area"
+msgstr ""
+
+#: framework/barebones-config.php:372
+msgid ""
+"Enter minimum height for the page content area. DO NOT PUT px HERE. Default "
+"is 400"
+msgstr ""
+
+#: framework/barebones-config.php:379
+msgid "100% Content Width"
+msgstr ""
+
+#: framework/barebones-config.php:380
+#, php-format
+msgid ""
+"Check this box to set the content area to 100% of the browser width. Uncheck "
+"to follow site width."
+msgstr ""
+
+#: framework/barebones-config.php:388 framework/meta-boxes.php:20
+msgid "Header"
+msgstr ""
+
+#: framework/barebones-config.php:389 framework/barebones-config.php:2720
+msgid "These are the options for the header."
+msgstr ""
+
+#: framework/barebones-config.php:395
+msgid "Header Style"
+msgstr ""
+
+#: framework/barebones-config.php:398
+msgid "Select header style for your website"
+msgstr ""
+
+#: framework/barebones-config.php:418
+msgid ""
+"Drag/Drop the blocks to organize how you want the layout in the site header. "
+"Selected blocks here will appear at the left side of header, for right side "
+"see below. -- For header style 3, logo position is fixed at left and this "
+"section is for header right top. -- For header style 4, menu position is "
+"fixed at the bottom. -- For header style 5 and 6 menu is fixed at bottom "
+"along with optional search, cart. -- For header style 10 logo is fixed in "
+"the header center and menu at bottom."
+msgstr ""
+
+#: framework/barebones-config.php:421 framework/barebones-config.php:449
+#: framework/barebones-config.php:2719 framework/barebones-config.php:3823
+msgid "Logo"
+msgstr ""
+
+#: framework/barebones-config.php:422 framework/barebones-config.php:450
+#: framework/barebones-config.php:3826 framework/barebones-config.php:3848
+#: framework/barebones-config.php:6521
+msgid "Menu"
+msgstr ""
+
+#: framework/barebones-config.php:425 framework/barebones-config.php:451
+#: framework/barebones-config.php:2911 framework/barebones-config.php:2934
+#: framework/barebones-config.php:3829 framework/barebones-config.php:3854
+#: framework/barebones-config.php:4784
+msgid "Featured Btn 1"
+msgstr ""
+
+#: framework/barebones-config.php:426 framework/barebones-config.php:452
+#: framework/barebones-config.php:2912 framework/barebones-config.php:2935
+#: framework/barebones-config.php:3830 framework/barebones-config.php:3855
+#: framework/barebones-config.php:4785
+msgid "Featured Btn 2"
+msgstr ""
+
+#: framework/barebones-config.php:427 framework/barebones-config.php:453
+#: framework/barebones-config.php:2913 framework/barebones-config.php:2936
+#: framework/barebones-config.php:3831 framework/barebones-config.php:3856
+#: framework/barebones-config.php:4786
+msgid "Featured Btn 3"
+msgstr ""
+
+#: framework/barebones-config.php:428 framework/barebones-config.php:446
+#: framework/barebones-config.php:2917 framework/barebones-config.php:2940
+#: framework/barebones-config.php:3827 framework/barebones-config.php:3852
+msgid "Cart"
+msgstr ""
+
+#: framework/barebones-config.php:429 framework/barebones-config.php:454
+#: framework/barebones-config.php:2305 framework/barebones-config.php:2908
+#: framework/barebones-config.php:2931 framework/barebones-config.php:3832
+#: framework/barebones-config.php:3857 framework/barebones-config.php:4787
+msgid "Header Info 1"
+msgstr ""
+
+#: framework/barebones-config.php:430 framework/barebones-config.php:455
+#: framework/barebones-config.php:2318 framework/barebones-config.php:2909
+#: framework/barebones-config.php:2932 framework/barebones-config.php:3833
+#: framework/barebones-config.php:3858 framework/barebones-config.php:4788
+msgid "Header Info 2"
+msgstr ""
+
+#: framework/barebones-config.php:431 framework/barebones-config.php:456
+#: framework/barebones-config.php:2331 framework/barebones-config.php:2910
+#: framework/barebones-config.php:2933 framework/barebones-config.php:3834
+#: framework/barebones-config.php:3859 framework/barebones-config.php:4789
+msgid "Header Info 3"
+msgstr ""
+
+#: framework/barebones-config.php:432 framework/barebones-config.php:457
+#: framework/barebones-config.php:2905 framework/barebones-config.php:2937
+#: framework/barebones-config.php:3835 framework/barebones-config.php:3860
+#: framework/barebones-config.php:4783 framework/barebones-config.php:6522
+#: framework/visual_composer.php:3412
+msgid "Social Icons"
+msgstr ""
+
+#: framework/barebones-config.php:433 framework/barebones-config.php:458
+#: framework/barebones-config.php:3836 framework/barebones-config.php:3861
+msgid "Widgets opener"
+msgstr ""
+
+#: framework/barebones-config.php:434 framework/barebones-config.php:445
+#: framework/barebones-config.php:3828 framework/barebones-config.php:3851
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: framework/barebones-config.php:442
+msgid ""
+"Drag/Drop the blocks to organize how you want the layout in the site header. "
+"Selected blocks here will appear at the right side of header, for left side "
+"see above. -- For header style 3, logo position is fixed at left and this "
+"section is for header right bottom. -- For header style 4, menu position is "
+"fixed at the bottom. -- For header style 5 and 6 menu is fixed at bottom "
+"along with optional search, cart. -- For header style 10 logo is fixed in "
+"the header center and menu at bottom."
+msgstr ""
+
+#: framework/barebones-config.php:466
+msgid "Option buttons for Header style 5 and 6"
+msgstr ""
+
+#: framework/barebones-config.php:472 framework/barebones-config.php:4797
+msgid "Show cart option"
+msgstr ""
+
+#: framework/barebones-config.php:473
+msgid ""
+"Check this to show cart option at the right of menu in header style 5 and 6."
+msgstr ""
+
+#: framework/barebones-config.php:480 framework/barebones-config.php:4805
+msgid "Show search option"
+msgstr ""
+
+#: framework/barebones-config.php:481
+msgid ""
+"Check this to show search option at the right of menu in header style 5 and "
+"6."
+msgstr ""
+
+#: framework/barebones-config.php:487
+msgid "Site header style"
+msgstr ""
+
+#: framework/barebones-config.php:488
+msgid "Use this section to style the site header."
+msgstr ""
+
+#: framework/barebones-config.php:496
+msgid "100% header width"
+msgstr ""
+
+#: framework/barebones-config.php:497
+#, php-format
+msgid ""
+"Check this box to set the header area to 100% of the browser width. Uncheck "
+"to follow site width."
+msgstr ""
+
+#: framework/barebones-config.php:505 framework/barebones-config.php:2964
+#: framework/barebones-config.php:3885 framework/barebones-config.php:6338
+#: framework/barebones-config.php:6462
+msgid "No space on left/right"
+msgstr ""
+
+#: framework/barebones-config.php:506
+#, php-format
+msgid ""
+"Check this box to set the header area to 100% of the browser width with no "
+"space on the sides."
+msgstr ""
+
+#: framework/barebones-config.php:513
+msgid "Header position"
+msgstr ""
+
+#: framework/barebones-config.php:514
+msgid ""
+"Use floated if you want the content below header to go underneath the "
+"header. Use normal for header to stay above the content part."
+msgstr ""
+
+#: framework/barebones-config.php:517 framework/visual_composer.php:556
+#: framework/visual_composer.php:947 framework/visual_composer.php:1351
+#: framework/visual_composer.php:1665 framework/visual_composer.php:2069
+#: framework/visual_composer.php:2506 framework/visual_composer.php:4249
+msgid "Normal"
+msgstr ""
+
+#: framework/barebones-config.php:518
+msgid "Floated"
+msgstr ""
+
+#: framework/barebones-config.php:527
+msgid "No background color/image"
+msgstr ""
+
+#: framework/barebones-config.php:528
+msgid ""
+"Check this box if you want to have your header transparent with no "
+"background. This will work only with floated header position."
+msgstr ""
+
+#: framework/barebones-config.php:535
+msgid "No shadow"
+msgstr ""
+
+#: framework/barebones-config.php:536
+msgid "Check this box if you want to remove the shadow from the site header."
+msgstr ""
+
+#: framework/barebones-config.php:560
+msgid "Header background color"
+msgstr ""
+
+#: framework/barebones-config.php:571 framework/barebones-config.php:3933
+msgid "Header background image"
+msgstr ""
+
+#: framework/barebones-config.php:578
+msgid "Site header position"
+msgstr ""
+
+#: framework/barebones-config.php:579
+msgid "Choose to which side you would like to show header for Header style 11."
+msgstr ""
+
+#: framework/barebones-config.php:581 framework/barebones-config.php:2503
+#: framework/meta-boxes.php:382 framework/theme-functions.php:287
+#: framework/visual_composer.php:747 framework/visual_composer.php:1523
+#: framework/visual_composer.php:1727 framework/visual_composer.php:2398
+#: framework/visual_composer.php:3146 framework/visual_composer.php:3467
+#: framework/visual_composer.php:3950
+msgid "Left"
+msgstr ""
+
+#: framework/barebones-config.php:582 framework/barebones-config.php:2505
+#: framework/meta-boxes.php:384 framework/theme-functions.php:288
+#: framework/visual_composer.php:747 framework/visual_composer.php:1523
+#: framework/visual_composer.php:1727 framework/visual_composer.php:2398
+#: framework/visual_composer.php:3147 framework/visual_composer.php:3469
+#: framework/visual_composer.php:3951
+msgid "Right"
+msgstr ""
+
+#: framework/barebones-config.php:593
+msgid "Site header width"
+msgstr ""
+
+#: framework/barebones-config.php:594
+msgid "Enter value in pixels for the header (Header style 11)."
+msgstr ""
+
+#: framework/barebones-config.php:604
+msgid "Site header spacing"
+msgstr ""
+
+#: framework/barebones-config.php:605
+msgid ""
+"Enter value in pixels for the header round side spacing (Header style 11)."
+msgstr ""
+
+#: framework/barebones-config.php:615
+msgid "Main menu style"
+msgstr ""
+
+#: framework/barebones-config.php:616
+msgid "Use this section to style the maine menu for the site header."
+msgstr ""
+
+#: framework/barebones-config.php:623
+msgid "Menu style"
+msgstr ""
+
+#: framework/barebones-config.php:625 framework/visual_composer.php:1390
+msgid "Style 1"
+msgstr ""
+
+#: framework/barebones-config.php:626 framework/visual_composer.php:274
+msgid "Style 2"
+msgstr ""
+
+#: framework/barebones-config.php:627
+msgid "Style 3"
+msgstr ""
+
+#: framework/barebones-config.php:634 framework/barebones-config.php:1250
+#: framework/barebones-config.php:1503 framework/barebones-config.php:1745
+#: framework/barebones-config.php:3226 framework/barebones-config.php:3480
+#: framework/barebones-config.php:3706 framework/barebones-config.php:4181
+#: framework/barebones-config.php:4435 framework/barebones-config.php:4661
+msgid "Trigger icon dimensions"
+msgstr ""
+
+#: framework/barebones-config.php:636 framework/barebones-config.php:1252
+#: framework/barebones-config.php:1505 framework/barebones-config.php:3228
+#: framework/barebones-config.php:3482 framework/barebones-config.php:4183
+#: framework/barebones-config.php:4437
+msgid "Keep width and height equal for a square icon box"
+msgstr ""
+
+#: framework/barebones-config.php:661 framework/barebones-config.php:1276
+#: framework/barebones-config.php:1528 framework/barebones-config.php:3252
+#: framework/barebones-config.php:3505 framework/barebones-config.php:4207
+#: framework/barebones-config.php:4460
+msgid "Trigger icon background"
+msgstr ""
+
+#: framework/barebones-config.php:685 framework/barebones-config.php:1300
+#: framework/barebones-config.php:1551 framework/barebones-config.php:3276
+#: framework/barebones-config.php:3528 framework/barebones-config.php:4231
+#: framework/barebones-config.php:4483
+msgid "Trigger icon hover background"
+msgstr ""
+
+#: framework/barebones-config.php:693 framework/barebones-config.php:1308
+#: framework/barebones-config.php:1558 framework/barebones-config.php:3284
+#: framework/barebones-config.php:3535 framework/barebones-config.php:4239
+#: framework/barebones-config.php:4490
+msgid "Trigger icon border"
+msgstr ""
+
+#: framework/barebones-config.php:701 framework/barebones-config.php:1316
+#: framework/barebones-config.php:1565 framework/barebones-config.php:3292
+#: framework/barebones-config.php:3542 framework/barebones-config.php:4247
+#: framework/barebones-config.php:4497
+msgid "Trigger icon hover border"
+msgstr ""
+
+#: framework/barebones-config.php:706 framework/barebones-config.php:1321
+#: framework/barebones-config.php:1570 framework/barebones-config.php:3297
+#: framework/barebones-config.php:3547 framework/barebones-config.php:4252
+#: framework/barebones-config.php:4502
+msgid "Trigger icon font size"
+msgstr ""
+
+#: framework/barebones-config.php:728 framework/barebones-config.php:1343
+#: framework/barebones-config.php:1590 framework/barebones-config.php:3320
+#: framework/barebones-config.php:3568 framework/barebones-config.php:4275
+#: framework/barebones-config.php:4523
+msgid "Trigger icon link color"
+msgstr ""
+
+#: framework/barebones-config.php:753
+msgid "Overlay menu background color"
+msgstr ""
+
+#: framework/barebones-config.php:762
+msgid "Overlay menu background image"
+msgstr ""
+
+#: framework/barebones-config.php:768 framework/barebones-config.php:2656
+msgid "Close button dimensions"
+msgstr ""
+
+#: framework/barebones-config.php:770 framework/barebones-config.php:2658
+msgid "Keep width and height equal for a square button"
+msgstr ""
+
+#: framework/barebones-config.php:783 framework/barebones-config.php:2671
+msgid "Close button background"
+msgstr ""
+
+#: framework/barebones-config.php:796 framework/barebones-config.php:2684
+msgid "Close button hover background"
+msgstr ""
+
+#: framework/barebones-config.php:804 framework/barebones-config.php:2692
+msgid "Close button color"
+msgstr ""
+
+#: framework/barebones-config.php:809 framework/barebones-config.php:2697
+msgid "Close button font size"
+msgstr ""
+
+#: framework/barebones-config.php:848 framework/barebones-config.php:873
+#: framework/barebones-config.php:898 framework/barebones-config.php:923
+msgid "Main nav background"
+msgstr ""
+
+#: framework/barebones-config.php:849
+msgid "Set color for the full width menu in Header style 4."
+msgstr ""
+
+#: framework/barebones-config.php:874
+msgid "Set color for the full width menu in Header style 5."
+msgstr ""
+
+#: framework/barebones-config.php:899
+msgid "Set color for the full width menu in Header style 6."
+msgstr ""
+
+#: framework/barebones-config.php:924
+msgid "Set color for the full width menu in Header style 10."
+msgstr ""
+
+#: framework/barebones-config.php:935
+msgid "Main navigation links typography"
+msgstr ""
+
+#: framework/barebones-config.php:960
+msgid "Main nav links border bottom color"
+msgstr ""
+
+#: framework/barebones-config.php:961
+msgid ""
+"Set color for the animated border which shows for the main links in the "
+"navigation."
+msgstr ""
+
+#: framework/barebones-config.php:985
+msgid "Main nav links hover bg color"
+msgstr ""
+
+#: framework/barebones-config.php:986
+msgid "Set main navigation links hover background color.(For menu style 3)"
+msgstr ""
+
+#: framework/barebones-config.php:991
+msgid "Main navigation link color"
+msgstr ""
+
+#: framework/barebones-config.php:992
+msgid "Set the Main Navigation links color, hover, active."
+msgstr ""
+
+#: framework/barebones-config.php:997
+msgid "Main Navigation current menu link color"
+msgstr ""
+
+#: framework/barebones-config.php:998
+msgid "Set the Main Navigation links color for active page."
+msgstr ""
+
+#: framework/barebones-config.php:1004
+msgid "Direction arrows with menu label"
+msgstr ""
+
+#: framework/barebones-config.php:1005
+msgid ""
+"Uncheck to disable arrows that appear with menu text which is having "
+"dropdown. Check to enable."
+msgstr ""
+
+#: framework/barebones-config.php:1012
+msgid "Drop shadow for dropdown menus"
+msgstr ""
+
+#: framework/barebones-config.php:1013
+msgid ""
+"Uncheck to disable drop shadow for the dropdown menu blocks. Check to enable."
+msgstr ""
+
+#: framework/barebones-config.php:1021
+msgid "Rounded border"
+msgstr ""
+
+#: framework/barebones-config.php:1022
+msgid ""
+"Uncheck to disable rounded border style for the dropdown menu blocks. Check "
+"to enable.(Only for Dropdown menu style 2)"
+msgstr ""
+
+#: framework/barebones-config.php:1046
+msgid "Background color for dropdown menus"
+msgstr ""
+
+#: framework/barebones-config.php:1047
+msgid "Background color set for the dropdowns blocks of main navigation."
+msgstr ""
+
+#: framework/barebones-config.php:1056
+msgid "Dropdown links border bottom"
+msgstr ""
+
+#: framework/barebones-config.php:1066 framework/barebones-config.php:4157
+msgid "Dropdown links spacing"
+msgstr ""
+
+#: framework/barebones-config.php:1092
+msgid "Background color for dropdown menus links hover"
+msgstr ""
+
+#: framework/barebones-config.php:1103
+msgid "Dropdown Menu Links Typography"
+msgstr ""
+
+#: framework/barebones-config.php:1109 framework/barebones-config.php:3208
+#: framework/barebones-config.php:4163
+msgid "Dropdown links color"
+msgstr ""
+
+#: framework/barebones-config.php:1119 framework/barebones-config.php:2994
+#: framework/barebones-config.php:3943
+msgid "Header info style"
+msgstr ""
+
+#: framework/barebones-config.php:1120
+msgid "Use this section to style the header info for the site header."
+msgstr ""
+
+#: framework/barebones-config.php:1132 framework/barebones-config.php:1993
+#: framework/barebones-config.php:2140 framework/barebones-config.php:2287
+#: framework/barebones-config.php:3007 framework/barebones-config.php:3124
+#: framework/barebones-config.php:3955 framework/barebones-config.php:4072
+#: framework/barebones-config.php:6899
+msgid "Typography"
+msgstr ""
+
+#: framework/barebones-config.php:1133
+msgid ""
+"These options will affect the header info shown in the main header only."
+msgstr ""
+
+#: framework/barebones-config.php:1141 framework/barebones-config.php:3016
+#: framework/barebones-config.php:3964
+msgid "Links color"
+msgstr ""
+
+#: framework/barebones-config.php:1142
+msgid ""
+"These options will affect the links in header info shown in the site header "
+"only."
+msgstr ""
+
+#: framework/barebones-config.php:1148 framework/barebones-config.php:3023
+#: framework/barebones-config.php:3971
+msgid "Header info 1 maximum width"
+msgstr ""
+
+#: framework/barebones-config.php:1150
+msgid ""
+"Set maximum width for the header info block 1 for the site header. For auto "
+"width leave empty."
+msgstr ""
+
+#: framework/barebones-config.php:1160 framework/barebones-config.php:3035
+#: framework/barebones-config.php:3983
+msgid "Header info 2 maximum width"
+msgstr ""
+
+#: framework/barebones-config.php:1162
+msgid ""
+"Set maximum width for the header info block 2 for the site header. For auto "
+"width leave empty."
+msgstr ""
+
+#: framework/barebones-config.php:1172 framework/barebones-config.php:3047
+#: framework/barebones-config.php:3995
+msgid "Header info 3 maximum width"
+msgstr ""
+
+#: framework/barebones-config.php:1174
+msgid ""
+"Set maximum width for the header info block 3 for the site header. For auto "
+"width leave empty."
+msgstr ""
+
+#: framework/barebones-config.php:1188 framework/barebones-config.php:3063
+#: framework/barebones-config.php:4011
+msgid "Social icons style"
+msgstr ""
+
+#: framework/barebones-config.php:1189
+msgid "Use this section to style the social icons for the site header."
+msgstr ""
+
+#: framework/barebones-config.php:1197 framework/barebones-config.php:1901
+#: framework/barebones-config.php:2048 framework/barebones-config.php:2195
+#: framework/barebones-config.php:2406 framework/barebones-config.php:3072
+#: framework/barebones-config.php:4020 framework/barebones-config.php:6594
+#: framework/barebones-config.php:7552
+msgid "Custom size"
+msgstr ""
+
+#: framework/barebones-config.php:1198 framework/barebones-config.php:2407
+#: framework/barebones-config.php:3073 framework/barebones-config.php:4021
+#: framework/barebones-config.php:6595 framework/barebones-config.php:7553
+msgid ""
+"Keep the width and height fields filled with same values to keep the social "
+"icons boxes in square."
+msgstr ""
+
+#: framework/barebones-config.php:1207 framework/barebones-config.php:2417
+#: framework/barebones-config.php:3082 framework/barebones-config.php:4030
+#: framework/barebones-config.php:6606 framework/barebones-config.php:7563
+msgid "Custom spacing"
+msgstr ""
+
+#: framework/barebones-config.php:1208 framework/barebones-config.php:2418
+#: framework/barebones-config.php:3083 framework/barebones-config.php:4031
+#: framework/barebones-config.php:6607 framework/barebones-config.php:7564
+msgid "Enter the margin from all sides for each social icon link."
+msgstr ""
+
+#: framework/barebones-config.php:1224 framework/barebones-config.php:2435
+#: framework/barebones-config.php:3099 framework/barebones-config.php:4047
+#: framework/barebones-config.php:6625 framework/barebones-config.php:7581
+msgid "Custom icon size"
+msgstr ""
+
+#: framework/barebones-config.php:1232 framework/barebones-config.php:2470
+#: framework/barebones-config.php:3107 framework/barebones-config.php:4055
+#: framework/barebones-config.php:6664 framework/barebones-config.php:7616
+msgid "Social Links Color"
+msgstr ""
+
+#: framework/barebones-config.php:1242 framework/barebones-config.php:3218
+#: framework/barebones-config.php:4173
+msgid "Search module style"
+msgstr ""
+
+#: framework/barebones-config.php:1243 framework/barebones-config.php:3219
+#: framework/barebones-config.php:4174
+msgid ""
+"Use this section to style the search trigger icon link or search open form "
+"as selected in the \"Search Form Style\" option."
+msgstr ""
+
+#: framework/barebones-config.php:1367 framework/barebones-config.php:3344
+#: framework/barebones-config.php:4299
+msgid "Dropdown search form background"
+msgstr ""
+
+#: framework/barebones-config.php:1375 framework/barebones-config.php:3352
+#: framework/barebones-config.php:4307
+msgid "Dropdown search form border"
+msgstr ""
+
+#: framework/barebones-config.php:1386 framework/barebones-config.php:3363
+#: framework/barebones-config.php:4318
+msgid "Dropdown search form border top"
+msgstr ""
+
+#: framework/barebones-config.php:1410 framework/barebones-config.php:3387
+#: framework/barebones-config.php:4342
+msgid "Search form background"
+msgstr ""
+
+#: framework/barebones-config.php:1418 framework/barebones-config.php:3395
+#: framework/barebones-config.php:4350
+msgid "Search form border"
+msgstr ""
+
+#: framework/barebones-config.php:1426 framework/barebones-config.php:3403
+#: framework/barebones-config.php:4358
+msgid "Search form width"
+msgstr ""
+
+#: framework/barebones-config.php:1428 framework/barebones-config.php:3405
+msgid "Enter width for the search form."
+msgstr ""
+
+#: framework/barebones-config.php:1436 framework/barebones-config.php:3413
+#: framework/barebones-config.php:4368
+msgid "Search form height"
+msgstr ""
+
+#: framework/barebones-config.php:1438 framework/barebones-config.php:3415
+#: framework/barebones-config.php:4370
+msgid "Enter height for the search form."
+msgstr ""
+
+#: framework/barebones-config.php:1443 framework/barebones-config.php:3420
+#: framework/barebones-config.php:4375
+msgid "Search form text typography"
+msgstr ""
+
+#: framework/barebones-config.php:1463 framework/barebones-config.php:3440
+#: framework/barebones-config.php:4395
+msgid "Search icon size"
+msgstr ""
+
+#: framework/barebones-config.php:1486 framework/barebones-config.php:2650
+#: framework/barebones-config.php:3463 framework/barebones-config.php:4418
+msgid "Search icon color"
+msgstr ""
+
+#: framework/barebones-config.php:1496 framework/barebones-config.php:3473
+#: framework/barebones-config.php:4428
+msgid "Cart module style"
+msgstr ""
+
+#: framework/barebones-config.php:1497
+msgid ""
+"Use this section to style the cart trigger icon link and cart block shown in "
+"the site header"
+msgstr ""
+
+#: framework/barebones-config.php:1613 framework/barebones-config.php:3591
+#: framework/barebones-config.php:4546
+msgid "Open cart background"
+msgstr ""
+
+#: framework/barebones-config.php:1620 framework/barebones-config.php:3598
+#: framework/barebones-config.php:4553
+msgid "Open cart border"
+msgstr ""
+
+#: framework/barebones-config.php:1630 framework/barebones-config.php:3608
+#: framework/barebones-config.php:4563
+msgid "Open cart border top"
+msgstr ""
+
+#: framework/barebones-config.php:1637 framework/barebones-config.php:3615
+#: framework/barebones-config.php:4570
+msgid "Cart items text color"
+msgstr ""
+
+#: framework/barebones-config.php:1642 framework/barebones-config.php:3620
+#: framework/barebones-config.php:4575
+msgid "Cart items typography"
+msgstr ""
+
+#: framework/barebones-config.php:1679 framework/barebones-config.php:3640
+#: framework/barebones-config.php:4595
+msgid "Open cart footer background"
+msgstr ""
+
+#: framework/barebones-config.php:1702 framework/barebones-config.php:3663
+#: framework/barebones-config.php:4618
+msgid "Open cart footer links hover background"
+msgstr ""
+
+#: framework/barebones-config.php:1709 framework/barebones-config.php:3670
+#: framework/barebones-config.php:4625
+msgid "Open cart footer links color"
+msgstr ""
+
+#: framework/barebones-config.php:1714 framework/barebones-config.php:3675
+#: framework/barebones-config.php:4630
+msgid "Open cart footer links typography"
+msgstr ""
+
+#: framework/barebones-config.php:1738 framework/barebones-config.php:3699
+#: framework/barebones-config.php:4654
+msgid "Overlay content opener button style"
+msgstr ""
+
+#: framework/barebones-config.php:1739 framework/barebones-config.php:3700
+msgid ""
+"Use this section to style the overlay content trigger link shown in the "
+"topbar"
+msgstr ""
+
+#: framework/barebones-config.php:1747 framework/barebones-config.php:3708
+#: framework/barebones-config.php:4663
+msgid "Keep width and height equal for a square button box"
+msgstr ""
+
+#: framework/barebones-config.php:1770 framework/barebones-config.php:3731
+#: framework/barebones-config.php:4686
+msgid "Trigger button background"
+msgstr ""
+
+#: framework/barebones-config.php:1793 framework/barebones-config.php:3754
+#: framework/barebones-config.php:4709
+msgid "Trigger button hover background"
+msgstr ""
+
+#: framework/barebones-config.php:1800 framework/barebones-config.php:3761
+#: framework/barebones-config.php:4716
+msgid "Trigger button border"
+msgstr ""
+
+#: framework/barebones-config.php:1807 framework/barebones-config.php:3768
+#: framework/barebones-config.php:4723
+msgid "Trigger button hover border"
+msgstr ""
+
+#: framework/barebones-config.php:1812 framework/barebones-config.php:3773
+#: framework/barebones-config.php:4728
+msgid "Trigger button font size"
+msgstr ""
+
+#: framework/barebones-config.php:1833 framework/barebones-config.php:3794
+#: framework/barebones-config.php:4749
+msgid "Trigger button text color"
+msgstr ""
+
+#: framework/barebones-config.php:1844
+msgid "Featured Buttons"
+msgstr ""
+
+#: framework/barebones-config.php:1845
+msgid ""
+"These are options to add highlighted buttons in to your site main header."
+msgstr ""
+
+#: framework/barebones-config.php:1852
+msgid "Button 1"
+msgstr ""
+
+#: framework/barebones-config.php:1857 framework/barebones-config.php:2004
+#: framework/barebones-config.php:2151 framework/visual_composer.php:111
+msgid "Label"
+msgstr ""
+
+#: framework/barebones-config.php:1858
+msgid "Insert featured button 1 label"
+msgstr ""
+
+#: framework/barebones-config.php:1859 framework/barebones-config.php:2006
+#: framework/barebones-config.php:2153 framework/barebones-config.php:2492
+msgid "Allowed HTML tags: span, u, i, b, br, strong, del, strike, em, img"
+msgstr ""
+
+#: framework/barebones-config.php:1860 framework/barebones-config.php:2007
+#: framework/barebones-config.php:2154 framework/barebones-config.php:7076
+#: framework/visual_composer.php:1204 framework/visual_composer.php:3281
+#: framework/visual_composer.php:3287 framework/visual_composer.php:3296
+#: partials/featured-button1.php:4 partials/featured-button2.php:4
+msgid "Button"
+msgstr ""
+
+#: framework/barebones-config.php:1865 framework/barebones-config.php:2012
+#: framework/barebones-config.php:2159 framework/visual_composer.php:3454
+msgid "URL"
+msgstr ""
+
+#: framework/barebones-config.php:1866
+msgid "Enter featured button 1 URL"
+msgstr ""
+
+#: framework/barebones-config.php:1867 framework/barebones-config.php:2014
+#: framework/barebones-config.php:2161
+msgid "A valid URL is required to show the button."
+msgstr ""
+
+#: framework/barebones-config.php:1874 framework/barebones-config.php:2021
+#: framework/barebones-config.php:2168 framework/barebones-config.php:2378
+#: framework/barebones-config.php:6564 framework/barebones-config.php:7524
+msgid "Shape"
+msgstr ""
+
+#: framework/barebones-config.php:1876 framework/barebones-config.php:2023
+#: framework/barebones-config.php:2170 framework/barebones-config.php:2381
+#: framework/barebones-config.php:6567 framework/barebones-config.php:7527
+#: framework/visual_composer.php:2413 framework/visual_composer.php:3071
+#: framework/visual_composer.php:3481 framework/visual_composer.php:3940
+msgid "Rounded"
+msgstr ""
+
+#: framework/barebones-config.php:1877 framework/barebones-config.php:2024
+#: framework/barebones-config.php:2171 framework/barebones-config.php:2382
+#: framework/barebones-config.php:6568 framework/barebones-config.php:7528
+#: framework/visual_composer.php:1531 framework/visual_composer.php:2413
+#: framework/visual_composer.php:3072 framework/visual_composer.php:3482
+#: framework/visual_composer.php:3939
+msgid "Square"
+msgstr ""
+
+#: framework/barebones-config.php:1878 framework/barebones-config.php:2025
+#: framework/barebones-config.php:2172 framework/barebones-config.php:2380
+#: framework/barebones-config.php:6566 framework/barebones-config.php:7526
+#: framework/visual_composer.php:1531 framework/visual_composer.php:3070
+#: framework/visual_composer.php:3480 framework/visual_composer.php:3938
+msgid "Round"
+msgstr ""
+
+#: framework/barebones-config.php:1886 framework/barebones-config.php:2033
+#: framework/barebones-config.php:2180 framework/barebones-config.php:2391
+#: framework/barebones-config.php:6578 framework/barebones-config.php:7537
+#: framework/visual_composer.php:4246
+msgid "Size"
+msgstr ""
+
+#: framework/barebones-config.php:1888 framework/barebones-config.php:2035
+#: framework/barebones-config.php:2182
+msgid "Extra Small"
+msgstr ""
+
+#: framework/barebones-config.php:1889 framework/barebones-config.php:2036
+#: framework/barebones-config.php:2183 framework/barebones-config.php:2393
+#: framework/barebones-config.php:6580 framework/barebones-config.php:7539
+#: framework/visual_composer.php:3494 framework/visual_composer.php:3926
+msgid "Small"
+msgstr ""
+
+#: framework/barebones-config.php:1890 framework/barebones-config.php:2037
+#: framework/barebones-config.php:2184 framework/barebones-config.php:2394
+#: framework/barebones-config.php:6581 framework/barebones-config.php:7540
+#: framework/visual_composer.php:3495 framework/visual_composer.php:3927
+msgid "Medium"
+msgstr ""
+
+#: framework/barebones-config.php:1891 framework/barebones-config.php:2038
+#: framework/barebones-config.php:2185 framework/barebones-config.php:2395
+#: framework/barebones-config.php:6582 framework/barebones-config.php:7541
+#: framework/visual_composer.php:3496 framework/visual_composer.php:3928
+msgid "Large"
+msgstr ""
+
+#: framework/barebones-config.php:1892 framework/barebones-config.php:2039
+#: framework/barebones-config.php:2186 framework/barebones-config.php:2397
+#: framework/barebones-config.php:6584 framework/barebones-config.php:7543
+#: framework/visual_composer.php:502 framework/visual_composer.php:893
+#: framework/visual_composer.php:1297 framework/visual_composer.php:1610
+#: framework/visual_composer.php:2015 framework/visual_composer.php:2316
+#: framework/visual_composer.php:2345 framework/visual_composer.php:2376
+#: framework/visual_composer.php:2461 framework/visual_composer.php:2674
+#: framework/visual_composer.php:2708 framework/visual_composer.php:2737
+#: framework/visual_composer.php:2793 framework/visual_composer.php:2825
+#: framework/visual_composer.php:3031 framework/visual_composer.php:3055
+#: framework/visual_composer.php:3087 framework/visual_composer.php:3122
+#: framework/visual_composer.php:3498 framework/visual_composer.php:3543
+#: framework/visual_composer.php:3911 framework/visual_composer.php:3962
+#: framework/visual_composer.php:3979 framework/visual_composer.php:4058
+#: framework/visual_composer.php:4094 framework/visual_composer.php:4137
+#: framework/visual_composer.php:4167 framework/visual_composer.php:4196
+msgid "Custom"
+msgstr ""
+
+#: framework/barebones-config.php:1902 framework/barebones-config.php:2049
+#: framework/barebones-config.php:2196
+msgid "Enter width and height for the featured button custom size."
+msgstr ""
+
+#: framework/barebones-config.php:1926 framework/barebones-config.php:2073
+#: framework/barebones-config.php:2220
+msgid "Background color translucent"
+msgstr ""
+
+#: framework/barebones-config.php:1933 framework/barebones-config.php:1963
+#: framework/barebones-config.php:2080 framework/barebones-config.php:2110
+#: framework/barebones-config.php:2227 framework/barebones-config.php:2257
+#: framework/barebones-config.php:2983
+msgid "Background color/image"
+msgstr ""
+
+#: framework/barebones-config.php:1956 framework/barebones-config.php:2103
+#: framework/barebones-config.php:2250
+msgid "Hover background color translucent"
+msgstr ""
+
+#: framework/barebones-config.php:1969 framework/barebones-config.php:2116
+#: framework/barebones-config.php:2263 framework/visual_composer.php:494
+#: framework/visual_composer.php:885 framework/visual_composer.php:1289
+#: framework/visual_composer.php:1601 framework/visual_composer.php:2007
+#: framework/visual_composer.php:2405
+msgid "Border"
+msgstr ""
+
+#: framework/barebones-config.php:1975 framework/barebones-config.php:2122
+#: framework/barebones-config.php:2269
+msgid "Hover Border"
+msgstr ""
+
+#: framework/barebones-config.php:1981 framework/barebones-config.php:2128
+#: framework/barebones-config.php:2275
+msgid "Link color"
+msgstr ""
+
+#: framework/barebones-config.php:1999
+msgid "Button 2"
+msgstr ""
+
+#: framework/barebones-config.php:2005
+msgid "Insert featured button 2 label"
+msgstr ""
+
+#: framework/barebones-config.php:2013
+msgid "Enter featured button 2 URL"
+msgstr ""
+
+#: framework/barebones-config.php:2146
+msgid "Button 3"
+msgstr ""
+
+#: framework/barebones-config.php:2152
+msgid "Insert featured button 3 label"
+msgstr ""
+
+#: framework/barebones-config.php:2160
+msgid "Enter featured button 3 URL"
+msgstr ""
+
+#: framework/barebones-config.php:2293
+msgid "Header Info"
+msgstr ""
+
+#: framework/barebones-config.php:2300
+msgid "Header info 1"
+msgstr ""
+
+#: framework/barebones-config.php:2306 framework/barebones-config.php:2319
+#: framework/barebones-config.php:2332
+msgid "HTML tags are allowed"
+msgstr ""
+
+#: framework/barebones-config.php:2313
+msgid "Header info 2"
+msgstr ""
+
+#: framework/barebones-config.php:2326
+msgid "Header info 3"
+msgstr ""
+
+#: framework/barebones-config.php:2339 framework/barebones-config.php:2347
+#: framework/barebones-config.php:6533
+msgid "Social Links"
+msgstr ""
+
+#: framework/barebones-config.php:2348
+msgid ""
+"Enter the social links and sort to activate and display according to "
+"sequence."
+msgstr ""
+
+#: framework/barebones-config.php:2383 framework/barebones-config.php:6569
+#: framework/barebones-config.php:7529 framework/visual_composer.php:2405
+#: framework/visual_composer.php:3483
+msgid "Plain"
+msgstr ""
+
+#: framework/barebones-config.php:2396 framework/barebones-config.php:6583
+#: framework/barebones-config.php:7542 framework/visual_composer.php:3497
+#: framework/visual_composer.php:3929
+msgid "Extra Large"
+msgstr ""
+
+#: framework/barebones-config.php:2442 framework/barebones-config.php:7588
+#: framework/visual_composer.php:272 framework/visual_composer.php:475
+#: framework/visual_composer.php:484 framework/visual_composer.php:493
+#: framework/visual_composer.php:501 framework/visual_composer.php:509
+#: framework/visual_composer.php:517 framework/visual_composer.php:525
+#: framework/visual_composer.php:534 framework/visual_composer.php:547
+#: framework/visual_composer.php:555 framework/visual_composer.php:564
+#: framework/visual_composer.php:574 framework/visual_composer.php:866
+#: framework/visual_composer.php:875 framework/visual_composer.php:884
+#: framework/visual_composer.php:892 framework/visual_composer.php:900
+#: framework/visual_composer.php:908 framework/visual_composer.php:916
+#: framework/visual_composer.php:925 framework/visual_composer.php:938
+#: framework/visual_composer.php:946 framework/visual_composer.php:955
+#: framework/visual_composer.php:965 framework/visual_composer.php:1002
+#: framework/visual_composer.php:1270 framework/visual_composer.php:1279
+#: framework/visual_composer.php:1288 framework/visual_composer.php:1296
+#: framework/visual_composer.php:1304 framework/visual_composer.php:1312
+#: framework/visual_composer.php:1320 framework/visual_composer.php:1329
+#: framework/visual_composer.php:1342 framework/visual_composer.php:1350
+#: framework/visual_composer.php:1359 framework/visual_composer.php:1369
+#: framework/visual_composer.php:1388 framework/visual_composer.php:1582
+#: framework/visual_composer.php:1591 framework/visual_composer.php:1600
+#: framework/visual_composer.php:1609 framework/visual_composer.php:1618
+#: framework/visual_composer.php:1626 framework/visual_composer.php:1634
+#: framework/visual_composer.php:1643 framework/visual_composer.php:1656
+#: framework/visual_composer.php:1664 framework/visual_composer.php:1673
+#: framework/visual_composer.php:1683 framework/visual_composer.php:1717
+#: framework/visual_composer.php:1988 framework/visual_composer.php:1997
+#: framework/visual_composer.php:2006 framework/visual_composer.php:2014
+#: framework/visual_composer.php:2022 framework/visual_composer.php:2030
+#: framework/visual_composer.php:2038 framework/visual_composer.php:2047
+#: framework/visual_composer.php:2060 framework/visual_composer.php:2068
+#: framework/visual_composer.php:2077 framework/visual_composer.php:2087
+#: framework/visual_composer.php:2105 framework/visual_composer.php:3648
+msgid "Style"
+msgstr ""
+
+#: framework/barebones-config.php:2444 framework/barebones-config.php:2457
+#: framework/barebones-config.php:6635 framework/barebones-config.php:6649
+#: framework/barebones-config.php:7590 framework/barebones-config.php:7603
+msgid "Brand colors"
+msgstr ""
+
+#: framework/barebones-config.php:2445 framework/barebones-config.php:2458
+#: framework/barebones-config.php:6636 framework/barebones-config.php:6650
+#: framework/barebones-config.php:7591 framework/barebones-config.php:7604
+#: framework/visual_composer.php:502 framework/visual_composer.php:893
+#: framework/visual_composer.php:1297 framework/visual_composer.php:1610
+#: framework/visual_composer.php:2015 framework/visual_composer.php:2314
+#: framework/visual_composer.php:2346 framework/visual_composer.php:2377
+#: framework/visual_composer.php:2459 framework/visual_composer.php:2675
+#: framework/visual_composer.php:2709 framework/visual_composer.php:2738
+#: framework/visual_composer.php:2794 framework/visual_composer.php:2826
+#: framework/visual_composer.php:3030 framework/visual_composer.php:3053
+#: framework/visual_composer.php:3088 framework/visual_composer.php:3123
+#: framework/visual_composer.php:3909 framework/visual_composer.php:3961
+#: framework/visual_composer.php:3977 framework/visual_composer.php:4057
+#: framework/visual_composer.php:4092 framework/visual_composer.php:4138
+#: framework/visual_composer.php:4168 framework/visual_composer.php:4197
+msgid "Theme primary color"
+msgstr ""
+
+#: framework/barebones-config.php:2446 framework/barebones-config.php:2459
+#: framework/barebones-config.php:6637 framework/barebones-config.php:6651
+#: framework/barebones-config.php:7592 framework/barebones-config.php:7605
+#: framework/visual_composer.php:502 framework/visual_composer.php:893
+#: framework/visual_composer.php:1297 framework/visual_composer.php:1610
+#: framework/visual_composer.php:2015 framework/visual_composer.php:2315
+#: framework/visual_composer.php:2347 framework/visual_composer.php:2378
+#: framework/visual_composer.php:2460 framework/visual_composer.php:2676
+#: framework/visual_composer.php:2710 framework/visual_composer.php:2739
+#: framework/visual_composer.php:2795 framework/visual_composer.php:2827
+#: framework/visual_composer.php:3089 framework/visual_composer.php:3124
+#: framework/visual_composer.php:4093 framework/visual_composer.php:4139
+#: framework/visual_composer.php:4169 framework/visual_composer.php:4198
+msgid "Theme secondary color"
+msgstr ""
+
+#: framework/barebones-config.php:2447 framework/barebones-config.php:2460
+#: framework/barebones-config.php:6638 framework/barebones-config.php:6652
+#: framework/barebones-config.php:7593 framework/barebones-config.php:7606
+msgid "Grayscale"
+msgstr ""
+
+#: framework/barebones-config.php:2455 framework/barebones-config.php:7601
+#: framework/visual_composer.php:572 framework/visual_composer.php:963
+#: framework/visual_composer.php:1367 framework/visual_composer.php:1681
+#: framework/visual_composer.php:2085
+msgid "Hover style"
+msgstr ""
+
+#: framework/barebones-config.php:2476
+msgid "Overlay Content"
+msgstr ""
+
+#: framework/barebones-config.php:2482
+msgid "Enable Overlay Content"
+msgstr ""
+
+#: framework/barebones-config.php:2483
+msgid ""
+"Enable/Disable overlay content area that opens up on click of a special "
+"button in the topbar/header."
+msgstr ""
+
+#: framework/barebones-config.php:2491
+msgid "Overlay content opener button text"
+msgstr ""
+
+#: framework/barebones-config.php:2493
+msgid "Enter text to show for button opener for the overlay content area."
+msgstr ""
+
+#: framework/barebones-config.php:2494
+msgid "<i class=\"fa fa-th\"></i>"
+msgstr ""
+
+#: framework/barebones-config.php:2500
+msgid "Overlay content block position"
+msgstr ""
+
+#: framework/barebones-config.php:2501
+msgid "Choose where you would like to show the overlay content area"
+msgstr ""
+
+#: framework/barebones-config.php:2504
+msgid "Top"
+msgstr ""
+
+#: framework/barebones-config.php:2512
+msgid "Keep opened by default"
+msgstr ""
+
+#: framework/barebones-config.php:2513
+msgid ""
+"Check this to keep the overlay content open by default without the trigger "
+"button action."
+msgstr ""
+
+#: framework/barebones-config.php:2521
+msgid "Width of the overlay content block"
+msgstr ""
+
+#: framework/barebones-config.php:2536
+msgid "Side padding"
+msgstr ""
+
+#: framework/barebones-config.php:2537
+msgid "Enter the padding from all sides for overlay content block."
+msgstr ""
+
+#: framework/barebones-config.php:2555
+msgid "Overlay content area background color"
+msgstr ""
+
+#: framework/barebones-config.php:2556
+msgid "Background color for the overlay content area"
+msgstr ""
+
+#: framework/barebones-config.php:2564
+msgid "Overlay Content VC Section"
+msgstr ""
+
+#: framework/barebones-config.php:2565
+msgid "Select VC Section for overlay content area."
+msgstr ""
+
+#: framework/barebones-config.php:2578
+msgid "Search Form Style"
+msgstr ""
+
+#: framework/barebones-config.php:2585
+msgid "Search form style for site header and topbar"
+msgstr ""
+
+#: framework/barebones-config.php:2587
+msgid "Dropdown form"
+msgstr ""
+
+#: framework/barebones-config.php:2588
+msgid "Open form"
+msgstr ""
+
+#: framework/barebones-config.php:2589
+msgid "Overlay form"
+msgstr ""
+
+#: framework/barebones-config.php:2615
+msgid "Search form background color"
+msgstr ""
+
+#: framework/barebones-config.php:2624
+msgid "Search form background image"
+msgstr ""
+
+#: framework/barebones-config.php:2635
+msgid "Search form border bottom"
+msgstr ""
+
+#: framework/barebones-config.php:2642
+msgid "Search form text color"
+msgstr ""
+
+#: framework/barebones-config.php:2726 framework/barebones-config.php:2794
+#: framework/barebones-config.php:2864
+msgid "Upload Logo"
+msgstr ""
+
+#: framework/barebones-config.php:2727 framework/barebones-config.php:2736
+#: framework/barebones-config.php:2804
+msgid "Upload site logo to display in header."
+msgstr ""
+
+#: framework/barebones-config.php:2734 framework/barebones-config.php:2802
+#: framework/barebones-config.php:2873
+msgid "Upload Logo for Retina Devices"
+msgstr ""
+
+#: framework/barebones-config.php:2735 framework/barebones-config.php:2803
+#: framework/barebones-config.php:2874
+msgid ""
+"Retina Display is a marketing term developed by Apple to refer to devices "
+"and monitors that have a resolution and pixel density so high &ndash; "
+"roughly 300 or more pixels per inch"
+msgstr ""
+
+#: framework/barebones-config.php:2746 framework/barebones-config.php:2814
+msgid "Logo Spacing"
+msgstr ""
+
+#: framework/barebones-config.php:2747 framework/barebones-config.php:2815
+msgid "Set top, right, bottom, left spacing for the logo"
+msgstr ""
+
+#: framework/barebones-config.php:2774 framework/barebones-config.php:2838
+msgid "Logo background"
+msgstr ""
+
+#: framework/barebones-config.php:2781 framework/barebones-config.php:2845
+msgid "Logo border"
+msgstr ""
+
+#: framework/barebones-config.php:2786
+msgid "Sticky header logo"
+msgstr ""
+
+#: framework/barebones-config.php:2787
+msgid ""
+"Use this section to upload a unique logo for your website sticky header."
+msgstr ""
+
+#: framework/barebones-config.php:2795
+msgid "Upload site logo to display in sticky header."
+msgstr ""
+
+#: framework/barebones-config.php:2855
+msgid "Mobile header logo"
+msgstr ""
+
+#: framework/barebones-config.php:2856
+msgid ""
+"Use this section to upload a unique logo for your website header when viewed "
+"on a small screen device like mobile."
+msgstr ""
+
+#: framework/barebones-config.php:2865
+msgid "Upload site logo to display in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:2875
+msgid "Upload site retina logo to display in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:2887
+msgid "Topbar"
+msgstr ""
+
+#: framework/barebones-config.php:2893
+msgid "Show Topbar"
+msgstr ""
+
+#: framework/barebones-config.php:2894
+msgid "Enable/Disable Topbar"
+msgstr ""
+
+#: framework/barebones-config.php:2902
+msgid ""
+"Drag/Drop the blocks to organize how you want the layout in the site topbar. "
+"Selected blocks here will appear at the left side of topbar, for right side "
+"see below."
+msgstr ""
+
+#: framework/barebones-config.php:2914 framework/barebones-config.php:2938
+msgid "Widgets Opener"
+msgstr ""
+
+#: framework/barebones-config.php:2915 framework/barebones-config.php:2928
+msgid "Top Menu"
+msgstr ""
+
+#: framework/barebones-config.php:2916 framework/barebones-config.php:2939
+msgid "search"
+msgstr ""
+
+#: framework/barebones-config.php:2925
+msgid ""
+"Drag/Drop the blocks to organize how you want the layout in the site topbar. "
+"Selected blocks here will appear at the right side of topbar, for left side "
+"see above."
+msgstr ""
+
+#: framework/barebones-config.php:2947
+msgid "Topbar style"
+msgstr ""
+
+#: framework/barebones-config.php:2948
+msgid "Use this section to style the topbar of your website."
+msgstr ""
+
+#: framework/barebones-config.php:2955 framework/barebones-config.php:3876
+msgid "100% Width"
+msgstr ""
+
+#: framework/barebones-config.php:2956
+#, php-format
+msgid ""
+"Check this box to set the topbar area to 100% of the browser width. Uncheck "
+"to follow site width."
+msgstr ""
+
+#: framework/barebones-config.php:2965
+#, php-format
+msgid ""
+"Check this box to set the topbar area to 100% of the browser width with no "
+"space on the sides."
+msgstr ""
+
+#: framework/barebones-config.php:2972
+msgid "Topbar height"
+msgstr ""
+
+#: framework/barebones-config.php:2974
+msgid "Set maximum height for the topbar. Default is 48px."
+msgstr ""
+
+#: framework/barebones-config.php:2984
+msgid "Background color/image for the topbar."
+msgstr ""
+
+#: framework/barebones-config.php:2995
+msgid "Use this section to style the header info used for the topbar."
+msgstr ""
+
+#: framework/barebones-config.php:3008
+msgid ""
+"These options will affect the header info shown in the site topbar only."
+msgstr ""
+
+#: framework/barebones-config.php:3017
+msgid ""
+"These options will affect the links in header info shown in the site topbar "
+"only."
+msgstr ""
+
+#: framework/barebones-config.php:3025
+msgid ""
+"Set maximum width for the header info block 1 for the site topbar. For auto "
+"width leave empty."
+msgstr ""
+
+#: framework/barebones-config.php:3037
+msgid ""
+"Set maximum width for the header info block 2 for the site topbar. For auto "
+"width leave empty."
+msgstr ""
+
+#: framework/barebones-config.php:3049
+msgid ""
+"Set maximum width for the header info block 3 for the site topbar. For auto "
+"width leave empty."
+msgstr ""
+
+#: framework/barebones-config.php:3064
+msgid "Use this section to style the social icons used for the topbar."
+msgstr ""
+
+#: framework/barebones-config.php:3117
+msgid "Topbar Menu style"
+msgstr ""
+
+#: framework/barebones-config.php:3118
+msgid ""
+"Use this section to style the menu used for the topbar. This is the menu you "
+"select for location \"Topbar Menu\" at Appearance => Menus"
+msgstr ""
+
+#: framework/barebones-config.php:3142 framework/barebones-config.php:4090
+msgid "Links Color"
+msgstr ""
+
+#: framework/barebones-config.php:3152
+msgid "Links sides border"
+msgstr ""
+
+#: framework/barebones-config.php:3162
+msgid "Links inside spacing"
+msgstr ""
+
+#: framework/barebones-config.php:3185 framework/barebones-config.php:4133
+msgid "Dropdown background"
+msgstr ""
+
+#: framework/barebones-config.php:3190 framework/barebones-config.php:4138
+msgid "Dropdown links typography"
+msgstr ""
+
+#: framework/barebones-config.php:3474 framework/barebones-config.php:4429
+msgid ""
+"Use this section to style the cart trigger icon link and cart block shown in "
+"the topbar"
+msgstr ""
+
+#: framework/barebones-config.php:3805 framework/barebones-config.php:3811
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/barebones-config.php:3812 framework/barebones-config.php:4767
+msgid "Enable/Disable"
+msgstr ""
+
+#: framework/barebones-config.php:3819
+msgid "Sticky header left content"
+msgstr ""
+
+#: framework/barebones-config.php:3820
+msgid ""
+"Drag/Drop the blocks to organize how you want the layout in the site sticky "
+"header. Selected blocks here will appear at the left side of sticky header, "
+"for right side see below."
+msgstr ""
+
+#: framework/barebones-config.php:3845
+msgid ""
+"Drag/Drop the blocks to organize how you want the layout in the site sticky "
+"header. Selected blocks here will appear at the right side of header, for "
+"left side see above."
+msgstr ""
+
+#: framework/barebones-config.php:3868
+msgid "Sticky header style"
+msgstr ""
+
+#: framework/barebones-config.php:3869
+msgid "Use this section to style the sticky header of your website."
+msgstr ""
+
+#: framework/barebones-config.php:3877
+#, php-format
+msgid ""
+"Check this box to set the sticky header area to 100% of the browser width. "
+"Uncheck to follow site width."
+msgstr ""
+
+#: framework/barebones-config.php:3886
+#, php-format
+msgid ""
+"Check this box to set the sticky header area to 100% of the browser width "
+"with no space on the sides."
+msgstr ""
+
+#: framework/barebones-config.php:3896
+msgid "Sticky header height"
+msgstr ""
+
+#: framework/barebones-config.php:3897
+msgid ""
+"Enter height for the sticky header, this is the maximum height of your site "
+"sticky header"
+msgstr ""
+
+#: framework/barebones-config.php:3924 framework/barebones-config.php:6372
+#: framework/barebones-config.php:6469
+msgid "Background"
+msgstr ""
+
+#: framework/barebones-config.php:3925
+msgid "Background color"
+msgstr ""
+
+#: framework/barebones-config.php:3944
+msgid "Use this section to style the header info used for the sticky header."
+msgstr ""
+
+#: framework/barebones-config.php:3956
+msgid ""
+"These options will affect the header info shown in the site sticky header "
+"only."
+msgstr ""
+
+#: framework/barebones-config.php:3965
+msgid ""
+"These options will affect the links in header info shown in the site sticky "
+"header only."
+msgstr ""
+
+#: framework/barebones-config.php:3973
+msgid ""
+"Set maximum width for the header info block 1 for the site sticky header. "
+"For auto width leave empty."
+msgstr ""
+
+#: framework/barebones-config.php:3985
+msgid ""
+"Set maximum width for the header info block 2 for the site sticky header. "
+"For auto width leave empty."
+msgstr ""
+
+#: framework/barebones-config.php:3997
+msgid ""
+"Set maximum width for the header info block 3 for the site sticky header. "
+"For auto width leave empty."
+msgstr ""
+
+#: framework/barebones-config.php:4012
+msgid "Use this section to style the social icons used for the sticky header."
+msgstr ""
+
+#: framework/barebones-config.php:4065
+msgid "Sticky header menu style"
+msgstr ""
+
+#: framework/barebones-config.php:4066
+msgid "Use this section to style the menu used for the sticky header."
+msgstr ""
+
+#: framework/barebones-config.php:4099
+msgid "Sticky header current menu link color"
+msgstr ""
+
+#: framework/barebones-config.php:4100
+msgid "Set the sticky header menu links color for active page."
+msgstr ""
+
+#: framework/barebones-config.php:4110
+msgid "Links spacing"
+msgstr ""
+
+#: framework/barebones-config.php:4360
+msgid "Enter width and height for the search form."
+msgstr ""
+
+#: framework/barebones-config.php:4655
+msgid ""
+"Use this section to style the overlay content trigger link shown in the "
+"sticky header"
+msgstr ""
+
+#: framework/barebones-config.php:4760 framework/barebones-config.php:4766
+msgid "Mobile Header"
+msgstr ""
+
+#: framework/barebones-config.php:4776
+msgid ""
+"Drag/Drop the blocks to organize how you want the layout in the site mobile "
+"header."
+msgstr ""
+
+#: framework/barebones-config.php:4779
+msgid "Logo + Menu"
+msgstr ""
+
+#: framework/barebones-config.php:4782 functions.php:35
+msgid "Topbar Menu"
+msgstr ""
+
+#: framework/barebones-config.php:4798
+msgid "Check this to show cart option at the right of menu in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4806
+msgid "Check this to show search option at the right of menu in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4813
+msgid "Mobile header background color/image"
+msgstr ""
+
+#: framework/barebones-config.php:4819
+msgid "Mobile header navbar background color/image"
+msgstr ""
+
+#: framework/barebones-config.php:4820
+msgid ""
+"Choose color or image for the navbar in mobile header. This is the space "
+"where your mobile logo, menuopener, search and cart icons will appear."
+msgstr ""
+
+#: framework/barebones-config.php:4826
+msgid "Mobile header header info background color/image"
+msgstr ""
+
+#: framework/barebones-config.php:4827
+msgid "Choose color or image for the header info rows in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4833
+msgid "Mobile header social icons row background color/image"
+msgstr ""
+
+#: framework/barebones-config.php:4834
+msgid "Choose color or image for the social icons row in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4840
+msgid "Mobile header topbar menu row background color/image"
+msgstr ""
+
+#: framework/barebones-config.php:4841
+msgid "Choose color or image for the topbar menu row in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4851
+msgid "Mobile header rows separator border"
+msgstr ""
+
+#: framework/barebones-config.php:4852
+msgid "Choose border properties for rows in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4860
+msgid "Mobile header rows inside spacing"
+msgstr ""
+
+#: framework/barebones-config.php:4861
+msgid "Set inside padding for the rows in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4866
+msgid "Menu, search, cart icon links font size"
+msgstr ""
+
+#: framework/barebones-config.php:4886
+msgid "Menu, search, cart icon links color"
+msgstr ""
+
+#: framework/barebones-config.php:4893
+msgid "Mobile header logo maximum height"
+msgstr ""
+
+#: framework/barebones-config.php:4894
+msgid "Set a maximum height for the logo image of mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4899
+msgid "Header info typography for mobile header"
+msgstr ""
+
+#: framework/barebones-config.php:4915
+msgid "Menu button"
+msgstr ""
+
+#: framework/barebones-config.php:4916
+msgid "Choose how you want to show the menu opener button in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4918 framework/barebones-config.php:7748
+#: framework/barebones-config.php:7793 framework/barebones-config.php:7838
+#: framework/barebones-config.php:7883 framework/visual_composer.php:717
+#: framework/visual_composer.php:2172 framework/visual_composer.php:2190
+#: framework/visual_composer.php:2209 framework/visual_composer.php:2228
+#: framework/visual_composer.php:2246 framework/visual_composer.php:2265
+#: framework/visual_composer.php:2284 framework/visual_composer.php:2540
+#: framework/visual_composer.php:2558 framework/visual_composer.php:2577
+#: framework/visual_composer.php:2596 framework/visual_composer.php:2614
+#: framework/visual_composer.php:2633 framework/visual_composer.php:2652
+#: framework/visual_composer.php:2895 framework/visual_composer.php:2913
+#: framework/visual_composer.php:2932 framework/visual_composer.php:2951
+#: framework/visual_composer.php:2969 framework/visual_composer.php:2988
+#: framework/visual_composer.php:3007
+msgid "Icon"
+msgstr ""
+
+#: framework/barebones-config.php:4919
+msgid "Icon + Text"
+msgstr ""
+
+#: framework/barebones-config.php:4920
+msgid "Text"
+msgstr ""
+
+#: framework/barebones-config.php:4927
+msgid "Menu button text"
+msgstr ""
+
+#: framework/barebones-config.php:4928
+msgid "Enter the text you want to show for the menu link in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4952
+msgid "Mobile header menu background color"
+msgstr ""
+
+#: framework/barebones-config.php:4957
+msgid "Mobile menu links typography"
+msgstr ""
+
+#: framework/barebones-config.php:4973
+msgid "Mobile menu links spacing"
+msgstr ""
+
+#: framework/barebones-config.php:4986
+msgid "Mobile menu links separator border"
+msgstr ""
+
+#: framework/barebones-config.php:4987
+msgid "Choose border properties for menu links in mobile header."
+msgstr ""
+
+#: framework/barebones-config.php:4994
+msgid "Mobile menu links color"
+msgstr ""
+
+#: framework/barebones-config.php:4999
+msgid "Submenu opener icon size and color"
+msgstr ""
+
+#: framework/barebones-config.php:5019
+msgid "Inner page header"
+msgstr ""
+
+#: framework/barebones-config.php:5026
+msgid "Inner page header global options"
+msgstr ""
+
+#: framework/barebones-config.php:5032 framework/barebones-config.php:5218
+#: framework/barebones-config.php:5383 framework/barebones-config.php:5549
+#: framework/barebones-config.php:5714 framework/barebones-config.php:5879
+#: framework/barebones-config.php:6044
+msgid "Hide page header"
+msgstr ""
+
+#: framework/barebones-config.php:5033
+msgid ""
+"Check this box to hide page header on the inner pages/posts/custom posts. "
+"This can be used as default for all inner pages and can override the "
+"individual page design options."
+msgstr ""
+
+#: framework/barebones-config.php:5042
+msgid "Select position of inner page title"
+msgstr ""
+
+#: framework/barebones-config.php:5043
+msgid ""
+"Select from the option whether to show page title below the banner image/"
+"slider or over the banner image "
+msgstr ""
+
+#: framework/barebones-config.php:5071 framework/barebones-config.php:5265
+#: framework/barebones-config.php:5430 framework/barebones-config.php:5596
+#: framework/barebones-config.php:5761 framework/barebones-config.php:5926
+#: framework/barebones-config.php:6069
+msgid "Default Banner Color"
+msgstr ""
+
+#: framework/barebones-config.php:5072
+msgid "Background color for the inner pages/posts header."
+msgstr ""
+
+#: framework/barebones-config.php:5078
+msgid "Default Banner Image"
+msgstr ""
+
+#: framework/barebones-config.php:5079
+msgid "Upload default banner image for the inner pages/posts header."
+msgstr ""
+
+#: framework/barebones-config.php:5085 framework/barebones-config.php:5228
+#: framework/barebones-config.php:5393 framework/barebones-config.php:5559
+#: framework/barebones-config.php:5724 framework/barebones-config.php:5889
+msgid "Default Height"
+msgstr ""
+
+#: framework/barebones-config.php:5086
+msgid "Enter default height for the inner pages header. DO NOT PUT px HERE"
+msgstr ""
+
+#: framework/barebones-config.php:5098 framework/barebones-config.php:5241
+#: framework/barebones-config.php:5406 framework/barebones-config.php:5572
+#: framework/barebones-config.php:5737 framework/barebones-config.php:5902
+msgid "Default spacing"
+msgstr ""
+
+#: framework/barebones-config.php:5099
+msgid "Enter top/bottom spacing for the inner pages header."
+msgstr ""
+
+#: framework/barebones-config.php:5109 framework/barebones-config.php:5280
+#: framework/barebones-config.php:5445 framework/barebones-config.php:5611
+#: framework/barebones-config.php:5776 framework/barebones-config.php:5941
+#: framework/barebones-config.php:6084
+msgid "Hide page title"
+msgstr ""
+
+#: framework/barebones-config.php:5110
+msgid ""
+"Check this box to hide page title in the page banner. Uncheck to show. This "
+"can be used as default for all inner pages and can override the individual "
+"page design options."
+msgstr ""
+
+#: framework/barebones-config.php:5134 framework/barebones-config.php:5305
+#: framework/barebones-config.php:5470 framework/barebones-config.php:5636
+#: framework/barebones-config.php:5801 framework/barebones-config.php:5966
+#: framework/barebones-config.php:6109
+msgid "Default Background Color for title header"
+msgstr ""
+
+#: framework/barebones-config.php:5139 framework/barebones-config.php:5310
+#: framework/barebones-config.php:5475 framework/barebones-config.php:5641
+#: framework/barebones-config.php:5806 framework/barebones-config.php:5971
+#: framework/barebones-config.php:6114
+msgid "Default border bottom for title header"
+msgstr ""
+
+#: framework/barebones-config.php:5157 framework/barebones-config.php:5328
+#: framework/barebones-config.php:5493 framework/barebones-config.php:5659
+#: framework/barebones-config.php:5824 framework/barebones-config.php:5989
+#: framework/barebones-config.php:6132
+msgid "Default spacing for title header"
+msgstr ""
+
+#: framework/barebones-config.php:5162 framework/barebones-config.php:5333
+#: framework/barebones-config.php:5498 framework/barebones-config.php:5664
+#: framework/barebones-config.php:5829 framework/barebones-config.php:5994
+#: framework/barebones-config.php:6137
+msgid "Title typography"
+msgstr ""
+
+#: framework/barebones-config.php:5184 framework/barebones-config.php:5352
+#: framework/barebones-config.php:5517 framework/barebones-config.php:5683
+#: framework/barebones-config.php:5848 framework/barebones-config.php:6013
+#: framework/barebones-config.php:6156
+msgid "Subtitle typography"
+msgstr ""
+
+#: framework/barebones-config.php:5212
+msgid "Inner page header options for posts"
+msgstr ""
+
+#: framework/barebones-config.php:5219
+msgid ""
+"Check this box to hide page header for the blog posts. This can be used as "
+"default for all blog posts and can override the individual page design "
+"options."
+msgstr ""
+
+#: framework/barebones-config.php:5229
+msgid "Enter default height for the inner page header for blog posts."
+msgstr ""
+
+#: framework/barebones-config.php:5242
+msgid "Enter top/bottom spacing for the inner page header for blog posts."
+msgstr ""
+
+#: framework/barebones-config.php:5266
+msgid "Background color for the blog posts header."
+msgstr ""
+
+#: framework/barebones-config.php:5272 framework/barebones-config.php:5437
+#: framework/barebones-config.php:5603
+msgid "Default banner image"
+msgstr ""
+
+#: framework/barebones-config.php:5273
+msgid "Upload default banner image for the blog posts header."
+msgstr ""
+
+#: framework/barebones-config.php:5281
+msgid ""
+"Check this box to hide posts title in the page banner. Uncheck to show. This "
+"can be used as default for all blog posts and can override the individual "
+"page design options."
+msgstr ""
+
+#: framework/barebones-config.php:5377
+msgid "Inner page header options for projects"
+msgstr ""
+
+#: framework/barebones-config.php:5384
+msgid ""
+"Check this box to hide page header for the projects. This can be used as "
+"default for all projects and can override the individual page design options."
+msgstr ""
+
+#: framework/barebones-config.php:5394
+msgid "Enter default height for the inner page header for project posts."
+msgstr ""
+
+#: framework/barebones-config.php:5407
+msgid "Enter top/bottom spacing for the inner page header for project posts."
+msgstr ""
+
+#: framework/barebones-config.php:5431
+msgid "Background color for the projects header."
+msgstr ""
+
+#: framework/barebones-config.php:5438
+msgid "Upload default banner image for the projects header."
+msgstr ""
+
+#: framework/barebones-config.php:5446
+msgid ""
+"Check this box to hide projects title in the page banner. Uncheck to show. "
+"This can be used as default for all projects and can override the individual "
+"page design options."
+msgstr ""
+
+#: framework/barebones-config.php:5543
+msgid "Inner page header options for events"
+msgstr ""
+
+#: framework/barebones-config.php:5550
+msgid ""
+"Check this box to hide page header for the events. This can be used as "
+"default for all events and can override the individual page design options."
+msgstr ""
+
+#: framework/barebones-config.php:5560
+msgid "Enter default height for the inner page header for event posts."
+msgstr ""
+
+#: framework/barebones-config.php:5573
+msgid "Enter top/bottom spacing for the inner page header for event posts."
+msgstr ""
+
+#: framework/barebones-config.php:5597
+msgid "Background color for the events header."
+msgstr ""
+
+#: framework/barebones-config.php:5604
+msgid "Upload default banner image for the events header."
+msgstr ""
+
+#: framework/barebones-config.php:5612
+msgid ""
+"Check this box to hide events title in the page banner. Uncheck to show. "
+"This can be used as default for all events and can override the individual "
+"page design options."
+msgstr ""
+
+#: framework/barebones-config.php:5708
+msgid "Inner page header options for services"
+msgstr ""
+
+#: framework/barebones-config.php:5715
+msgid ""
+"Check this box to hide page header for the services. This can be used as "
+"default for all services and can override the individual page design options."
+msgstr ""
+
+#: framework/barebones-config.php:5725
+msgid "Enter default height for the inner page header for service posts."
+msgstr ""
+
+#: framework/barebones-config.php:5738
+msgid "Enter top/bottom spacing for the inner page header for service posts."
+msgstr ""
+
+#: framework/barebones-config.php:5762
+msgid "Background color for the services header."
+msgstr ""
+
+#: framework/barebones-config.php:5768
+msgid "Default Banner Image for Services"
+msgstr ""
+
+#: framework/barebones-config.php:5769
+msgid "Upload default banner image for the service posts header."
+msgstr ""
+
+#: framework/barebones-config.php:5777
+msgid ""
+"Check this box to hide services title in the page banner. Uncheck to show. "
+"This can be used as default for all services and can override the individual "
+"page design options."
+msgstr ""
+
+#: framework/barebones-config.php:5873
+msgid "Inner page header options for team posts"
+msgstr ""
+
+#: framework/barebones-config.php:5880 framework/barebones-config.php:6045
+msgid ""
+"Check this box to hide page header for the team posts. This can be used as "
+"default for all team posts and can override the individual page design "
+"options."
+msgstr ""
+
+#: framework/barebones-config.php:5890
+msgid "Enter default height for the inner page header for team posts."
+msgstr ""
+
+#: framework/barebones-config.php:5903
+msgid "Enter top/bottom spacing for the inner page header for team posts."
+msgstr ""
+
+#: framework/barebones-config.php:5927
+msgid "Background color for the team posts header."
+msgstr ""
+
+#: framework/barebones-config.php:5933
+msgid "Default Banner Image for Team"
+msgstr ""
+
+#: framework/barebones-config.php:5934
+msgid "Upload default banner image for the team posts header."
+msgstr ""
+
+#: framework/barebones-config.php:5942
+msgid ""
+"Check this box to hide team posts title in the page banner. Uncheck to show. "
+"This can be used as default for all team posts and can override the "
+"individual page design options."
+msgstr ""
+
+#: framework/barebones-config.php:6038
+msgid "Inner page header options for products"
+msgstr ""
+
+#: framework/barebones-config.php:6070
+msgid "Background color for the products header."
+msgstr ""
+
+#: framework/barebones-config.php:6076
+msgid "Default Banner Image for WooCommerce products"
+msgstr ""
+
+#: framework/barebones-config.php:6077
+msgid "Upload default banner image for the woocommerce product posts header."
+msgstr ""
+
+#: framework/barebones-config.php:6085
+msgid ""
+"Check this box to hide products posts title in the page banner. Uncheck to "
+"show. This can be used as default for all products and can override the "
+"individual page design options."
+msgstr ""
+
+#: framework/barebones-config.php:6181
+msgid "Breadcrumbs styling"
+msgstr ""
+
+#: framework/barebones-config.php:6187
+msgid "Hide breadcrumb"
+msgstr ""
+
+#: framework/barebones-config.php:6188
+msgid ""
+"Check this box to hide breadcrumbs from all inner pages. This can be used as "
+"default for all posts/pages and can override the individual page design "
+"options."
+msgstr ""
+
+#: framework/barebones-config.php:6194
+msgid "Breadcrumb typography"
+msgstr ""
+
+#: framework/barebones-config.php:6212
+msgid "Breadcrumb links color"
+msgstr ""
+
+#: framework/barebones-config.php:6225
+msgid "Archive pages title"
+msgstr ""
+
+#: framework/barebones-config.php:6230
+msgid "Title for projects archive"
+msgstr ""
+
+#: framework/barebones-config.php:6231
+msgid "Enter title of the archive page for the projects post type."
+msgstr ""
+
+#: framework/barebones-config.php:6237
+msgid "Title for events archive"
+msgstr ""
+
+#: framework/barebones-config.php:6238
+msgid "Enter title of the archive page for the events post type."
+msgstr ""
+
+#: framework/barebones-config.php:6244
+msgid "Title for blog archive"
+msgstr ""
+
+#: framework/barebones-config.php:6245
+msgid "Enter title of the archive page for the blog post type."
+msgstr ""
+
+#: framework/barebones-config.php:6251
+msgid "Title for services archive"
+msgstr ""
+
+#: framework/barebones-config.php:6252
+msgid "Enter title of the archive page for the services post type."
+msgstr ""
+
+#: framework/barebones-config.php:6258
+msgid "Title for team archive"
+msgstr ""
+
+#: framework/barebones-config.php:6259
+msgid "Enter title of the archive page for the team post type."
+msgstr ""
+
+#: framework/barebones-config.php:6265
+msgid "Title for shop archive"
+msgstr ""
+
+#: framework/barebones-config.php:6266
+msgid "Enter title of the archive page for the products/shop post type."
+msgstr ""
+
+#: framework/barebones-config.php:6278
+msgid "Footer"
+msgstr ""
+
+#: framework/barebones-config.php:6279
+msgid "These are the options for the footer."
+msgstr ""
+
+#: framework/barebones-config.php:6285
+msgid "VC Section row"
+msgstr ""
+
+#: framework/barebones-config.php:6290
+msgid "Enable footer VC Section area"
+msgstr ""
+
+#: framework/barebones-config.php:6291
+msgid ""
+"Check this box to enable footer VC Section area. Create VC Section using "
+"visual composer page builder."
+msgstr ""
+
+#: framework/barebones-config.php:6297 framework/visual_composer.php:3703
+#: framework/visual_composer.php:3709
+msgid "VC Section"
+msgstr ""
+
+#: framework/barebones-config.php:6298
+msgid "Select VC Section for your website footer."
+msgstr ""
+
+#: framework/barebones-config.php:6317
+msgid "Widgets row"
+msgstr ""
+
+#: framework/barebones-config.php:6322
+msgid "Enable footer widgets area"
+msgstr ""
+
+#: framework/barebones-config.php:6323
+msgid ""
+"Check this box to enable footer widgets area. Choose footer layout below."
+msgstr ""
+
+#: framework/barebones-config.php:6329 framework/barebones-config.php:6453
+msgid "100% width"
+msgstr ""
+
+#: framework/barebones-config.php:6330
+#, php-format
+msgid ""
+"Check this box to set footer width to 100% of the browser width. Uncheck to "
+"follow site width. Only works with wide layout mode."
+msgstr ""
+
+#: framework/barebones-config.php:6339
+#, php-format
+msgid ""
+"Check this box to set the footer widgets area to 100% of the browser width "
+"with no space on the sides."
+msgstr ""
+
+#: framework/barebones-config.php:6346 framework/barebones-config.php:6443
+#: framework/visual_composer.php:3322 framework/visual_composer.php:4234
+msgid "Skin"
+msgstr ""
+
+#: framework/barebones-config.php:6348 framework/barebones-config.php:6445
+#: framework/visual_composer.php:518 framework/visual_composer.php:556
+#: framework/visual_composer.php:909 framework/visual_composer.php:947
+#: framework/visual_composer.php:1313 framework/visual_composer.php:1351
+#: framework/visual_composer.php:1627 framework/visual_composer.php:1665
+#: framework/visual_composer.php:2031 framework/visual_composer.php:2069
+#: framework/visual_composer.php:2506 framework/visual_composer.php:3324
+#: framework/visual_composer.php:4047
+msgid "Dark"
+msgstr ""
+
+#: framework/barebones-config.php:6349 framework/barebones-config.php:6446
+#: framework/visual_composer.php:518 framework/visual_composer.php:556
+#: framework/visual_composer.php:909 framework/visual_composer.php:947
+#: framework/visual_composer.php:1313 framework/visual_composer.php:1351
+#: framework/visual_composer.php:1627 framework/visual_composer.php:1665
+#: framework/visual_composer.php:2031 framework/visual_composer.php:2069
+#: framework/visual_composer.php:2506 framework/visual_composer.php:3324
+#: framework/visual_composer.php:4048
+msgid "Light"
+msgstr ""
+
+#: framework/barebones-config.php:6357
+msgid "Footer layout"
+msgstr ""
+
+#: framework/barebones-config.php:6358
+msgid "Select the footer widgeted area layout"
+msgstr ""
+
+#: framework/barebones-config.php:6373
+msgid "Background color or image for the footer widgets area."
+msgstr ""
+
+#: framework/barebones-config.php:6380 framework/barebones-config.php:6477
+msgid "Top/Bottom padding"
+msgstr ""
+
+#: framework/barebones-config.php:6381
+msgid "Enter top and bottom spacing for the footer widgets area."
+msgstr ""
+
+#: framework/barebones-config.php:6389 framework/barebones-config.php:6486
+msgid "Border top/bottom"
+msgstr ""
+
+#: framework/barebones-config.php:6403
+msgid "Footer widgets title typography"
+msgstr ""
+
+#: framework/barebones-config.php:6412
+msgid "Footer widgets area text typography"
+msgstr ""
+
+#: framework/barebones-config.php:6418
+msgid "Footer widgets area links color"
+msgstr ""
+
+#: framework/barebones-config.php:6430
+msgid "Copyrights row"
+msgstr ""
+
+#: framework/barebones-config.php:6435
+msgid "Enable Footer copyrights area"
+msgstr ""
+
+#: framework/barebones-config.php:6436
+msgid ""
+"Uncheck to disable footer copyrights area that comes below the footer "
+"widgets area."
+msgstr ""
+
+#: framework/barebones-config.php:6454
+#, php-format
+msgid ""
+"Check this box to set footer copyrights area width to 100% of the browser "
+"width. Uncheck to follow site width. Only works with wide layout mode."
+msgstr ""
+
+#: framework/barebones-config.php:6463
+#, php-format
+msgid ""
+"Check this box to set the footer copyrights area to 100% of the browser "
+"width with no space on the sides."
+msgstr ""
+
+#: framework/barebones-config.php:6478
+msgid ""
+"Enter top and bottom spacing for the footer copyrights area. DO NOT ENTER px "
+"HERE."
+msgstr ""
+
+#: framework/barebones-config.php:6497
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: framework/barebones-config.php:6498
+msgid " Enter Copyright Text"
+msgstr ""
+
+#: framework/barebones-config.php:6499
+msgid "All Rights Reserved"
+msgstr ""
+
+#: framework/barebones-config.php:6505
+msgid "Footer copyrights area text typography"
+msgstr ""
+
+#: framework/barebones-config.php:6511
+msgid "Footer copyrights area links color"
+msgstr ""
+
+#: framework/barebones-config.php:6517
+msgid "Copyrights footer right"
+msgstr ""
+
+#: framework/barebones-config.php:6518
+msgid "Choose what to display at the right corner of copyrights footer area."
+msgstr ""
+
+#: framework/barebones-config.php:6519
+msgid ""
+"If menu option is chosen then you can set a Menu for location \"Footer Menu"
+"\" at Appearance > Menus"
+msgstr ""
+
+#: framework/barebones-config.php:6523 framework/visual_composer.php:494
+#: framework/visual_composer.php:502 framework/visual_composer.php:575
+#: framework/visual_composer.php:717 framework/visual_composer.php:885
+#: framework/visual_composer.php:893 framework/visual_composer.php:966
+#: framework/visual_composer.php:1289 framework/visual_composer.php:1297
+#: framework/visual_composer.php:1370 framework/visual_composer.php:1601
+#: framework/visual_composer.php:1610 framework/visual_composer.php:1684
+#: framework/visual_composer.php:2007 framework/visual_composer.php:2015
+#: framework/visual_composer.php:2088 framework/visual_composer.php:3358
+#: framework/visual_composer.php:3771
+msgid "None"
+msgstr ""
+
+#: framework/barebones-config.php:6534
+msgid ""
+"Insert Social URL in their respective fields and sort as your desired order."
+msgstr ""
+
+#: framework/barebones-config.php:6633
+msgid "Footer social icons style"
+msgstr ""
+
+#: framework/barebones-config.php:6647
+msgid "Footer social icons hover style"
+msgstr ""
+
+#: framework/barebones-config.php:6675
+msgid "Sidebars"
+msgstr ""
+
+#: framework/barebones-config.php:6681
+msgid "Sidebar position"
+msgstr ""
+
+#: framework/barebones-config.php:6682
+msgid ""
+"Select the Global Sidebar Position. Can be overridden by page sidebar "
+"settings."
+msgstr ""
+
+#: framework/barebones-config.php:6692
+msgid "Sidebar Background"
+msgstr ""
+
+#: framework/barebones-config.php:6701
+msgid "Sidebar inside padding"
+msgstr ""
+
+#: framework/barebones-config.php:6702
+msgid "Enter padding values for the sidebar inside area. DO NOT ENTER px HERE."
+msgstr ""
+
+#: framework/barebones-config.php:6716
+msgid "Sidebar Widgets Background"
+msgstr ""
+
+#: framework/barebones-config.php:6724
+msgid "Sidebar widgets inside padding"
+msgstr ""
+
+#: framework/barebones-config.php:6725
+msgid ""
+"Enter padding values for the sidebar widgets inside area. DO NOT ENTER px "
+"HERE."
+msgstr ""
+
+#: framework/barebones-config.php:6739
+msgid "Sidebar widgets border"
+msgstr ""
+
+#: framework/barebones-config.php:6740
+msgid "Enter border values for the sidebar widgets. DO NOT ENTER px HERE."
+msgstr ""
+
+#: framework/barebones-config.php:6752
+msgid "Pages Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6753
+msgid "Select sidebar that will display on all pages."
+msgstr ""
+
+#: framework/barebones-config.php:6760
+msgid "Blog Posts Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6761
+msgid "Select sidebar that will display on all single posts."
+msgstr ""
+
+#: framework/barebones-config.php:6768
+msgid "Blog Posts Archive/Category Pages Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6769
+msgid ""
+"Select sidebar that will display on all blog posts category/archive pages."
+msgstr ""
+
+#: framework/barebones-config.php:6776
+msgid "Project Posts Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6777
+msgid "Select sidebar that will display on all single project pages."
+msgstr ""
+
+#: framework/barebones-config.php:6784
+msgid "Project Posts Archive/Category Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6785
+msgid "Select sidebar that will display on all project posts category pages."
+msgstr ""
+
+#: framework/barebones-config.php:6792
+msgid "Event Posts Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6793
+msgid "Select sidebar that will display on all single event pages."
+msgstr ""
+
+#: framework/barebones-config.php:6800
+msgid "Event Posts Archive/Category Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6801
+msgid "Select sidebar that will display on all event posts category pages."
+msgstr ""
+
+#: framework/barebones-config.php:6808
+msgid "Service Posts Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6809
+msgid "Select sidebar that will display on all single service pages."
+msgstr ""
+
+#: framework/barebones-config.php:6816
+msgid "Service Posts Archive/Category Pages Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6817
+msgid "Select sidebar that will display on all service posts category pages."
+msgstr ""
+
+#: framework/barebones-config.php:6824
+msgid "Team Posts Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6825
+msgid "Select sidebar that will display on all team posts."
+msgstr ""
+
+#: framework/barebones-config.php:6832
+msgid "Team Posts Archive/Category Pages Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6833
+msgid "Select sidebar that will display on all team posts category pages."
+msgstr ""
+
+#: framework/barebones-config.php:6840
+msgid "Search Page Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6841
+msgid "Select sidebar for search results page."
+msgstr ""
+
+#: framework/barebones-config.php:6848
+msgid "Shop page Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:6849
+msgid ""
+"Select sidebar for Woocommerce default shop and products archive/category "
+"pages."
+msgstr ""
+
+#: framework/barebones-config.php:6857
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/barebones-config.php:6863
+msgid "Color scheme"
+msgstr ""
+
+#: framework/barebones-config.php:6865
+msgid "Pre-Defined Color Schemes"
+msgstr ""
+
+#: framework/barebones-config.php:6866 framework/visual_composer.php:140
+#: framework/visual_composer.php:3392
+msgid "Custom Color"
+msgstr ""
+
+#: framework/barebones-config.php:6874
+msgid "Theme Color Scheme"
+msgstr ""
+
+#: framework/barebones-config.php:6875
+msgid "Select from pre built color schemes."
+msgstr ""
+
+#: framework/barebones-config.php:6883
+msgid "Primary theme color"
+msgstr ""
+
+#: framework/barebones-config.php:6891
+msgid "Secondary theme color"
+msgstr ""
+
+#: framework/barebones-config.php:6900
+msgid "Global Font Family Sets"
+msgstr ""
+
+#: framework/barebones-config.php:6901
+msgid ""
+"These options are as per the design which consists of 3 fonts. For more "
+"advanced typography options see Sub Sections below this in Left Sidebar. "
+"Make sure you set these options only if you have knowledge about every "
+"property to avoid disturbing the whole layout. If something went wrong just "
+"reset this section to reset all fields in Typography Options or click the "
+"small cross signs in each select field/delete text from input fields to "
+"reset them."
+msgstr ""
+
+#: framework/barebones-config.php:6906
+msgid "Heading font"
+msgstr ""
+
+#: framework/barebones-config.php:6920
+msgid "Choose font family for Headings"
+msgstr ""
+
+#: framework/barebones-config.php:6928
+msgid "Body/Primary font"
+msgstr ""
+
+#: framework/barebones-config.php:6942
+msgid "Choose font family for Body."
+msgstr ""
+
+#: framework/barebones-config.php:6951
+msgid "More Options"
+msgstr ""
+
+#: framework/barebones-config.php:6957
+msgid "Body"
+msgstr ""
+
+#: framework/barebones-config.php:6969
+msgid "Typography options for body text"
+msgstr ""
+
+#: framework/barebones-config.php:6974
+msgid "H1 Title"
+msgstr ""
+
+#: framework/barebones-config.php:6986
+msgid "Typography options for H1 title"
+msgstr ""
+
+#: framework/barebones-config.php:6991
+msgid "H2 Title"
+msgstr ""
+
+#: framework/barebones-config.php:7003
+msgid "Typography options for H2 title"
+msgstr ""
+
+#: framework/barebones-config.php:7008
+msgid "H3 Title"
+msgstr ""
+
+#: framework/barebones-config.php:7020
+msgid "Typography options for H3 title"
+msgstr ""
+
+#: framework/barebones-config.php:7025
+msgid "H4 Title"
+msgstr ""
+
+#: framework/barebones-config.php:7037
+msgid "Typography options for H4 title"
+msgstr ""
+
+#: framework/barebones-config.php:7042
+msgid "H5 Title"
+msgstr ""
+
+#: framework/barebones-config.php:7054
+msgid "Typography options for H5 title"
+msgstr ""
+
+#: framework/barebones-config.php:7059
+msgid "H6 Title"
+msgstr ""
+
+#: framework/barebones-config.php:7071
+msgid "Typography options for H6 title"
+msgstr ""
+
+#: framework/barebones-config.php:7088
+msgid "Typography options for buttons"
+msgstr ""
+
+#: framework/barebones-config.php:7093
+msgid "Basic Link"
+msgstr ""
+
+#: framework/barebones-config.php:7105
+msgid "Typography options for links using basic-link class"
+msgstr ""
+
+#: framework/barebones-config.php:7111
+msgid "Additional Styles"
+msgstr ""
+
+#: framework/barebones-config.php:7112
+msgid ""
+"Choose and select font families and styles for Google Fonts that are not "
+"loaded with the primary typography options. For example add different weight "
+"and style for a same font family you choose for your Typography options "
+"above."
+msgstr ""
+
+#: framework/barebones-config.php:7118
+msgid "Additional Font family and style 1"
+msgstr ""
+
+#: framework/barebones-config.php:7141
+msgid "Additional Font family and style 2"
+msgstr ""
+
+#: framework/barebones-config.php:7164
+msgid "Additional Font family and style 3"
+msgstr ""
+
+#: framework/barebones-config.php:7186
+msgid "Additional Font family and style 4"
+msgstr ""
+
+#: framework/barebones-config.php:7209
+msgid "Additional Font family and style 5"
+msgstr ""
+
+#: framework/barebones-config.php:7229
+msgid "Additional Font family and style 6"
+msgstr ""
+
+#: framework/barebones-config.php:7249
+msgid "Additional Font family and style 7"
+msgstr ""
+
+#: framework/barebones-config.php:7270 pages-banner.php:62 pages-flex.php:25
+msgid "Blog"
+msgstr ""
+
+#: framework/barebones-config.php:7271
+msgid ""
+"These options are the options for posts page set at Settings > Reading which "
+"use index.php template."
+msgstr ""
+
+#: framework/barebones-config.php:7276
+msgid "Posts content type"
+msgstr ""
+
+#: framework/barebones-config.php:7277
+msgid ""
+"If content is chosen then the full content of posts will be shown until the "
+"MORE tag which can be inserted in the post content."
+msgstr ""
+
+#: framework/barebones-config.php:7285 framework/visual_composer.php:412
+#: framework/visual_composer.php:791 framework/visual_composer.php:1173
+#: framework/visual_composer.php:1877
+msgid "Number of words to show as excerpt"
+msgstr ""
+
+#: framework/barebones-config.php:7291 framework/barebones-config.php:7329
+msgid "Show post author name/link?"
+msgstr ""
+
+#: framework/barebones-config.php:7297 framework/barebones-config.php:7335
+msgid "Show post publish date?"
+msgstr ""
+
+#: framework/barebones-config.php:7303 framework/barebones-config.php:7341
+#: framework/visual_composer.php:1150
+msgid "Show post categories?"
+msgstr ""
+
+#: framework/barebones-config.php:7309 framework/barebones-config.php:7353
+msgid "Show post comments count?"
+msgstr ""
+
+#: framework/barebones-config.php:7315 framework/visual_composer.php:1183
+#: framework/visual_composer.php:1887
+msgid "Show read more button?"
+msgstr ""
+
+#: framework/barebones-config.php:7323
+msgid "Single Post"
+msgstr ""
+
+#: framework/barebones-config.php:7324
+msgid ""
+"These options are the options for single post page template which use single."
+"php template."
+msgstr ""
+
+#: framework/barebones-config.php:7347 framework/visual_composer.php:1117
+msgid "Show post media?"
+msgstr ""
+
+#: framework/barebones-config.php:7360
+msgid "404 Page"
+msgstr ""
+
+#: framework/barebones-config.php:7366
+msgid "Page header image"
+msgstr ""
+
+#: framework/barebones-config.php:7367
+msgid "Upload image to show on the page header of the 404 error page."
+msgstr ""
+
+#: framework/barebones-config.php:7373
+msgid "Page header height"
+msgstr ""
+
+#: framework/barebones-config.php:7384
+msgid "Page title"
+msgstr ""
+
+#: framework/barebones-config.php:7385
+msgid "Enter title for 404 error page. Default is 404 Error."
+msgstr ""
+
+#: framework/barebones-config.php:7391
+msgid "Page title color"
+msgstr ""
+
+#: framework/barebones-config.php:7396
+msgid "Page content"
+msgstr ""
+
+#: framework/barebones-config.php:7397
+msgid "Enter text/html content for 404 error page."
+msgstr ""
+
+#: framework/barebones-config.php:7403
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: framework/barebones-config.php:7408
+msgid "CSS Code"
+msgstr ""
+
+#: framework/barebones-config.php:7409
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/barebones-config.php:7419
+msgid "JS Code"
+msgstr ""
+
+#: framework/barebones-config.php:7420
+msgid "Paste your JS code here."
+msgstr ""
+
+#: framework/barebones-config.php:7432 framework/barebones-config.php:7437
+#: framework/meta-boxes.php:32
+msgid "Social Sharing"
+msgstr ""
+
+#: framework/barebones-config.php:7438
+msgid ""
+"Enable/Disable theme default social sharing buttons for posts/projects/"
+"services/team single pages"
+msgstr ""
+
+#: framework/barebones-config.php:7445
+msgid "Social share options"
+msgstr ""
+
+#: framework/barebones-config.php:7446
+msgid "Click on the buttons to disable/enable share buttons"
+msgstr ""
+
+#: framework/barebones-config.php:7476
+msgid "Select share buttons for post types"
+msgstr ""
+
+#: framework/barebones-config.php:7477
+msgid "Uncheck to disable for any type"
+msgstr ""
+
+#: framework/barebones-config.php:7479
+msgid "Posts"
+msgstr ""
+
+#: framework/barebones-config.php:7480
+msgid "Pages"
+msgstr ""
+
+#: framework/barebones-config.php:7481 framework/barebones-config.php:7812
+#: framework/visual_composer.php:1694 pages-banner.php:64 pages-flex.php:27
+msgid "Team"
+msgstr ""
+
+#: framework/barebones-config.php:7482 framework/barebones-config.php:7722
+#: framework/visual_composer.php:238 pages-banner.php:61 pages-flex.php:24
+msgid "Projects"
+msgstr ""
+
+#: framework/barebones-config.php:7483 framework/barebones-config.php:7767
+#: framework/visual_composer.php:585 pages-banner.php:63 pages-flex.php:26
+msgid "Services"
+msgstr ""
+
+#: framework/barebones-config.php:7497
+msgid "Sharing icons styling"
+msgstr ""
+
+#: framework/barebones-config.php:7502
+msgid "Show sharing icon before the sharing icons"
+msgstr ""
+
+#: framework/barebones-config.php:7508
+msgid "Enter title to show before the sharing icons"
+msgstr ""
+
+#: framework/barebones-config.php:7514
+msgid "Share before text typography"
+msgstr ""
+
+#: framework/barebones-config.php:7627
+msgid "Sharing links alt/title text"
+msgstr ""
+
+#: framework/barebones-config.php:7632
+msgid "Tooltip text for Facebook share icon"
+msgstr ""
+
+#: framework/barebones-config.php:7633
+msgid "Text for the Facebook share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:7639
+msgid "Tooltip text for Twitter share icon"
+msgstr ""
+
+#: framework/barebones-config.php:7640
+msgid "Text for the Twitter share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:7646
+msgid "Tooltip text for Google Plus share icon"
+msgstr ""
+
+#: framework/barebones-config.php:7647
+msgid "Text for the Google Plus share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:7653
+msgid "Tooltip text for Tumblr share icon"
+msgstr ""
+
+#: framework/barebones-config.php:7654
+msgid "Text for the Tumblr share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:7660
+msgid "Tooltip text for Pinterest share icon"
+msgstr ""
+
+#: framework/barebones-config.php:7661
+msgid "Text for the Pinterest share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:7667
+msgid "Tooltip text for Reddit share icon"
+msgstr ""
+
+#: framework/barebones-config.php:7668
+msgid "Text for the Reddit share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:7674
+msgid "Tooltip text for Linkedin share icon"
+msgstr ""
+
+#: framework/barebones-config.php:7675
+msgid "Text for the Linkedin share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:7681
+msgid "Tooltip text for Email share icon"
+msgstr ""
+
+#: framework/barebones-config.php:7682
+msgid "Text for the Email share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:7688
+msgid "Tooltip text for VK share icon"
+msgstr ""
+
+#: framework/barebones-config.php:7689
+msgid "Text for the vk share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:7695
+msgid "Tooltip text for Whatsapp share icon"
+msgstr ""
+
+#: framework/barebones-config.php:7696
+msgid "Text for the whatsapp share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:7709
+msgid "Custom Post Types"
+msgstr ""
+
+#: framework/barebones-config.php:7714
+msgid ""
+"Sub sections here for each post type will help you change the permalinks "
+"slug for each post type. Also would be able to change the Title for menu on "
+"the left sidebar of WP Dashboard."
+msgstr ""
+
+#: framework/barebones-config.php:7716
+msgid ""
+"Make sure you go to Settings > Permalinks page once you make any change to "
+"any post type here to flush the permalinks structure cache. You just need to "
+"go to that permalinks page, no need to save the options."
+msgstr ""
+
+#: framework/barebones-config.php:7727 framework/barebones-config.php:7772
+#: framework/barebones-config.php:7817 framework/barebones-config.php:7862
+#: framework/visual_composer.php:2328 framework/visual_composer.php:2692
+#: framework/visual_composer.php:2783 framework/visual_composer.php:3078
+#: framework/visual_composer.php:3203 framework/visual_composer.php:3899
+#: framework/visual_composer.php:4151
+msgid "Title"
+msgstr ""
+
+#: framework/barebones-config.php:7732 framework/barebones-config.php:7777
+#: framework/barebones-config.php:7822 framework/barebones-config.php:7867
+msgid "Plural title"
+msgstr ""
+
+#: framework/barebones-config.php:7737 framework/barebones-config.php:7782
+#: framework/barebones-config.php:7827 framework/barebones-config.php:7872
+msgid "All items title"
+msgstr ""
+
+#: framework/barebones-config.php:7742 framework/barebones-config.php:7787
+#: framework/barebones-config.php:7832 framework/barebones-config.php:7877
+msgid "Permalink slug"
+msgstr ""
+
+#: framework/barebones-config.php:7743 framework/barebones-config.php:7788
+#: framework/barebones-config.php:7833 framework/barebones-config.php:7878
+msgid "All lowercase, no spaces in between words."
+msgstr ""
+
+#: framework/barebones-config.php:7749 framework/barebones-config.php:7794
+#: framework/barebones-config.php:7839 framework/barebones-config.php:7884
+msgid ""
+"Enter dashboard icon class name for this post type. Get class names from "
+"https://developer.wordpress.org/resource/dashicons/"
+msgstr ""
+
+#: framework/barebones-config.php:7754 framework/barebones-config.php:7799
+#: framework/barebones-config.php:7844 framework/barebones-config.php:7889
+msgid "Disable post type archive page."
+msgstr ""
+
+#: framework/barebones-config.php:7755 framework/barebones-config.php:7800
+#: framework/barebones-config.php:7845 framework/barebones-config.php:7890
+msgid ""
+"By default WordPress create a page for all post types which makes it "
+"impossible for you to create a new page with the same slug as of custom post "
+"type. Check this to disable the default cpt page."
+msgstr ""
+
+#: framework/barebones-config.php:7857 framework/visual_composer.php:1381
+msgid "Testimonials"
+msgstr ""
+
+#: framework/barebones-config.php:7902
+msgid "Import / Export"
+msgstr ""
+
+#: framework/barebones-config.php:7903
+msgid "Import and Export your Theme Framework settings from file, text or URL."
+msgstr ""
+
+#: framework/barebones-config.php:7909
+msgid "Import Export"
+msgstr ""
+
+#: framework/barebones-config.php:7910
+msgid "Save and restore your Theme options"
+msgstr ""
+
+#: framework/meta-boxes.php:14
+msgid "Page Design Options"
+msgstr ""
+
+#: framework/meta-boxes.php:23
+msgid "Page Header"
+msgstr ""
+
+#: framework/meta-boxes.php:26
+msgid "Page Title"
+msgstr ""
+
+#: framework/meta-boxes.php:42
+msgid "Standard Logo"
+msgstr ""
+
+#: framework/meta-boxes.php:44
+msgid "Upload logo image to show on this page."
+msgstr ""
+
+#: framework/meta-boxes.php:50
+msgid "Retina Logo"
+msgstr ""
+
+#: framework/meta-boxes.php:52
+msgid ""
+"Retina Display is a marketing term developed by Apple to refer to devices "
+"and monitors that have a resolution and pixel density so high &ndash; "
+"roughly 300 or more pixels per inch."
+msgstr ""
+
+#: framework/meta-boxes.php:58
+msgid "Standard Logo Width for Retina Logo"
+msgstr ""
+
+#: framework/meta-boxes.php:59
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version width, do "
+"not enter the retina logo width."
+msgstr ""
+
+#: framework/meta-boxes.php:65
+msgid "Standard Logo Height for Retina Logo"
+msgstr ""
+
+#: framework/meta-boxes.php:66
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version height, do "
+"not enter the retina logo height."
+msgstr ""
+
+#: framework/meta-boxes.php:72
+msgid "Topbar Show/Hide"
+msgstr ""
+
+#: framework/meta-boxes.php:77 framework/meta-boxes.php:207
+#: framework/meta-boxes.php:362 framework/meta-boxes.php:400
+#: framework/meta-boxes.php:411
+msgid "Show"
+msgstr ""
+
+#: framework/meta-boxes.php:78 framework/meta-boxes.php:208
+#: framework/meta-boxes.php:363 framework/meta-boxes.php:401
+#: framework/meta-boxes.php:412
+msgid "Hide"
+msgstr ""
+
+#: framework/meta-boxes.php:83
+msgid "Page layout"
+msgstr ""
+
+#: framework/meta-boxes.php:85
+msgid "Select layout for the page."
+msgstr ""
+
+#: framework/meta-boxes.php:89 framework/meta-boxes.php:381
+msgid "Theme Default"
+msgstr ""
+
+#: framework/meta-boxes.php:90 framework/visual_composer.php:984
+msgid "Full Width"
+msgstr ""
+
+#: framework/meta-boxes.php:91
+msgid "Boxed"
+msgstr ""
+
+#: framework/meta-boxes.php:95
+msgid "Content Width"
+msgstr ""
+
+#: framework/meta-boxes.php:96
+msgid "Enter width of content in px or %"
+msgstr ""
+
+#: framework/meta-boxes.php:102
+msgid "Content Padding Top"
+msgstr ""
+
+#: framework/meta-boxes.php:109
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: framework/meta-boxes.php:116 framework/meta-boxes.php:161
+msgid "Background Color"
+msgstr ""
+
+#: framework/meta-boxes.php:118
+msgid "Choose background color for the outer area"
+msgstr ""
+
+#: framework/meta-boxes.php:124 framework/meta-boxes.php:168
+msgid "Background Image"
+msgstr ""
+
+#: framework/meta-boxes.php:126
+msgid "Choose background image for the outer area"
+msgstr ""
+
+#: framework/meta-boxes.php:133 framework/meta-boxes.php:176
+msgid "100% Background Image"
+msgstr ""
+
+#: framework/meta-boxes.php:135 framework/meta-boxes.php:178
+msgid "Choose to have the background image display at 100%."
+msgstr ""
+
+#: framework/meta-boxes.php:139 framework/meta-boxes.php:182
+#: framework/meta-boxes.php:314 framework/meta-boxes.php:327
+#: framework/meta-boxes.php:458 framework/meta-boxes.php:469
+#: framework/meta-boxes.php:480 framework/visual_composer.php:263
+#: framework/visual_composer.php:281 framework/visual_composer.php:292
+#: framework/visual_composer.php:314 framework/visual_composer.php:325
+#: framework/visual_composer.php:347 framework/visual_composer.php:359
+#: framework/visual_composer.php:372 framework/visual_composer.php:384
+#: framework/visual_composer.php:391 framework/visual_composer.php:398
+#: framework/visual_composer.php:405 framework/visual_composer.php:459
+#: framework/visual_composer.php:526 framework/visual_composer.php:535
+#: framework/visual_composer.php:565 framework/visual_composer.php:614
+#: framework/visual_composer.php:625 framework/visual_composer.php:647
+#: framework/visual_composer.php:658 framework/visual_composer.php:680
+#: framework/visual_composer.php:692 framework/visual_composer.php:705
+#: framework/visual_composer.php:759 framework/visual_composer.php:766
+#: framework/visual_composer.php:784 framework/visual_composer.php:803
+#: framework/visual_composer.php:850 framework/visual_composer.php:917
+#: framework/visual_composer.php:926 framework/visual_composer.php:956
+#: framework/visual_composer.php:1016 framework/visual_composer.php:1027
+#: framework/visual_composer.php:1049 framework/visual_composer.php:1060
+#: framework/visual_composer.php:1082 framework/visual_composer.php:1094
+#: framework/visual_composer.php:1107 framework/visual_composer.php:1119
+#: framework/visual_composer.php:1127 framework/visual_composer.php:1138
+#: framework/visual_composer.php:1145 framework/visual_composer.php:1152
+#: framework/visual_composer.php:1159 framework/visual_composer.php:1166
+#: framework/visual_composer.php:1185 framework/visual_composer.php:1254
+#: framework/visual_composer.php:1321 framework/visual_composer.php:1330
+#: framework/visual_composer.php:1360 framework/visual_composer.php:1416
+#: framework/visual_composer.php:1427 framework/visual_composer.php:1445
+#: framework/visual_composer.php:1452 framework/visual_composer.php:1470
+#: framework/visual_composer.php:1478 framework/visual_composer.php:1490
+#: framework/visual_composer.php:1502 framework/visual_composer.php:1509
+#: framework/visual_composer.php:1516 framework/visual_composer.php:1566
+#: framework/visual_composer.php:1635 framework/visual_composer.php:1644
+#: framework/visual_composer.php:1674 framework/visual_composer.php:1739
+#: framework/visual_composer.php:1750 framework/visual_composer.php:1772
+#: framework/visual_composer.php:1783 framework/visual_composer.php:1805
+#: framework/visual_composer.php:1817 framework/visual_composer.php:1830
+#: framework/visual_composer.php:1842 framework/visual_composer.php:1849
+#: framework/visual_composer.php:1856 framework/visual_composer.php:1863
+#: framework/visual_composer.php:1870 framework/visual_composer.php:1889
+#: framework/visual_composer.php:1908 framework/visual_composer.php:1915
+#: framework/visual_composer.php:1922 framework/visual_composer.php:1972
+#: framework/visual_composer.php:2039 framework/visual_composer.php:2048
+#: framework/visual_composer.php:2078 framework/visual_composer.php:2115
+#: framework/visual_composer.php:2123 framework/visual_composer.php:2131
+#: framework/visual_composer.php:2139 framework/visual_composer.php:2479
+#: framework/visual_composer.php:2487 framework/visual_composer.php:2514
+#: framework/visual_composer.php:2817 framework/visual_composer.php:3212
+#: framework/visual_composer.php:3624 framework/visual_composer.php:3636
+#: framework/visual_composer.php:3808 framework/visual_composer.php:3826
+#: framework/visual_composer.php:3833 framework/visual_composer.php:3851
+#: framework/visual_composer.php:3859 framework/visual_composer.php:3867
+#: framework/visual_composer.php:4110
+msgid "Yes"
+msgstr ""
+
+#: framework/meta-boxes.php:140 framework/meta-boxes.php:183
+#: framework/meta-boxes.php:315 framework/meta-boxes.php:328
+#: framework/meta-boxes.php:459 framework/meta-boxes.php:470
+#: framework/meta-boxes.php:481 framework/visual_composer.php:526
+#: framework/visual_composer.php:535 framework/visual_composer.php:548
+#: framework/visual_composer.php:565 framework/visual_composer.php:917
+#: framework/visual_composer.php:926 framework/visual_composer.php:939
+#: framework/visual_composer.php:956 framework/visual_composer.php:1321
+#: framework/visual_composer.php:1330 framework/visual_composer.php:1343
+#: framework/visual_composer.php:1360 framework/visual_composer.php:1635
+#: framework/visual_composer.php:1644 framework/visual_composer.php:1657
+#: framework/visual_composer.php:1674 framework/visual_composer.php:2039
+#: framework/visual_composer.php:2048 framework/visual_composer.php:2061
+#: framework/visual_composer.php:2078 framework/visual_composer.php:2479
+#: framework/visual_composer.php:2487 framework/visual_composer.php:2499
+#: framework/visual_composer.php:2514 framework/visual_composer.php:3625
+#: framework/visual_composer.php:3637 framework/visual_composer.php:4109
+msgid "No"
+msgstr ""
+
+#: framework/meta-boxes.php:146 framework/meta-boxes.php:188
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/meta-boxes.php:148 framework/meta-boxes.php:190
+msgid "Select how the background image repeats."
+msgstr ""
+
+#: framework/meta-boxes.php:152 framework/meta-boxes.php:194
+msgid "Repeat"
+msgstr ""
+
+#: framework/meta-boxes.php:153 framework/meta-boxes.php:195
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/meta-boxes.php:154 framework/meta-boxes.php:196
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/meta-boxes.php:155 framework/meta-boxes.php:197
+msgid "No Repeat"
+msgstr ""
+
+#: framework/meta-boxes.php:163
+msgid "Choose background color for the Content area"
+msgstr ""
+
+#: framework/meta-boxes.php:170
+msgid "Choose background image for the Content area"
+msgstr ""
+
+#: framework/meta-boxes.php:202
+msgid "Page Header Show/Hide"
+msgstr ""
+
+#: framework/meta-boxes.php:213
+msgid "Choose Header Type"
+msgstr ""
+
+#: framework/meta-boxes.php:215
+msgid "Select Banner Type."
+msgstr ""
+
+#: framework/meta-boxes.php:219
+msgid "Colored Banner"
+msgstr ""
+
+#: framework/meta-boxes.php:220
+msgid "Image Banner"
+msgstr ""
+
+#: framework/meta-boxes.php:221
+msgid "Flex Slider"
+msgstr ""
+
+#: framework/meta-boxes.php:222 framework/tgm/plugin-includes.php:51
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/meta-boxes.php:228
+msgid "Banner Color"
+msgstr ""
+
+#: framework/meta-boxes.php:236
+msgid "Use featured image as page banner"
+msgstr ""
+
+#: framework/meta-boxes.php:238
+msgid ""
+"If checked then your page/post featured image will be used as it's page "
+"header banner image. Uncheck to upload your own new image for the page "
+"header banner."
+msgstr ""
+
+#: framework/meta-boxes.php:246
+msgid "Banner Image"
+msgstr ""
+
+#: framework/meta-boxes.php:248
+msgid "Upload banner image for header for this Page/Post."
+msgstr ""
+
+#: framework/meta-boxes.php:257
+msgid "Banner image overlay"
+msgstr ""
+
+#: framework/meta-boxes.php:259
+msgid "Choose over color for Image banner."
+msgstr ""
+
+#: framework/meta-boxes.php:266
+msgid "Banner image overlay opacity"
+msgstr ""
+
+#: framework/meta-boxes.php:268
+msgid ""
+"Enter value for opacity of banner image overlay. Enter value between 0.1 to "
+"1."
+msgstr ""
+
+#: framework/meta-boxes.php:275 framework/meta-boxes.php:277
+msgid "Select Revolution Slider from list"
+msgstr ""
+
+#: framework/meta-boxes.php:286
+msgid "Slider Images"
+msgstr ""
+
+#: framework/meta-boxes.php:288
+msgid "Upload/select slider images."
+msgstr ""
+
+#: framework/meta-boxes.php:295
+msgid "Slider Pagination"
+msgstr ""
+
+#: framework/meta-boxes.php:297
+msgid "Enable to show pagination for slider."
+msgstr ""
+
+#: framework/meta-boxes.php:301
+msgid "Enable"
+msgstr ""
+
+#: framework/meta-boxes.php:302
+msgid "Disable"
+msgstr ""
+
+#: framework/meta-boxes.php:308
+msgid "Slider Auto Slide"
+msgstr ""
+
+#: framework/meta-boxes.php:310
+msgid "Select Yes to slide automatically."
+msgstr ""
+
+#: framework/meta-boxes.php:321
+msgid "Slider Direction Arrows"
+msgstr ""
+
+#: framework/meta-boxes.php:323 framework/meta-boxes.php:466
+msgid "Select Yes to show slider direction arrows."
+msgstr ""
+
+#: framework/meta-boxes.php:334
+msgid "Slider Effects"
+msgstr ""
+
+#: framework/meta-boxes.php:336
+msgid "Select effects for slider."
+msgstr ""
+
+#: framework/meta-boxes.php:340
+msgid "Fade"
+msgstr ""
+
+#: framework/meta-boxes.php:341
+msgid "Slide"
+msgstr ""
+
+#: framework/meta-boxes.php:347
+msgid "Banner/Slider Height"
+msgstr ""
+
+#: framework/meta-boxes.php:349
+msgid "Enter Height for Banner/Slider Ex-250. DO NOT ENTER px HERE"
+msgstr ""
+
+#: framework/meta-boxes.php:357
+msgid "Page Title Show/Hide"
+msgstr ""
+
+#: framework/meta-boxes.php:368
+msgid "Page Title Text Color"
+msgstr ""
+
+#: framework/meta-boxes.php:370
+msgid "Select banner text color."
+msgstr ""
+
+#: framework/meta-boxes.php:375
+msgid "Page Title Alignment"
+msgstr ""
+
+#: framework/meta-boxes.php:377
+msgid "Choose aligment of the page title."
+msgstr ""
+
+#: framework/meta-boxes.php:383 framework/visual_composer.php:747
+#: framework/visual_composer.php:1727 framework/visual_composer.php:2398
+#: framework/visual_composer.php:3145 framework/visual_composer.php:3468
+#: framework/visual_composer.php:3949
+msgid "Center"
+msgstr ""
+
+#: framework/meta-boxes.php:388
+msgid "Page header sub title"
+msgstr ""
+
+#: framework/meta-boxes.php:389
+msgid ""
+"Enter sub title for the page that will show below the page title in the page "
+"header area."
+msgstr ""
+
+#: framework/meta-boxes.php:395
+msgid "Breadcrumb Show/Hide"
+msgstr ""
+
+#: framework/meta-boxes.php:406
+msgid "Show social sharing buttons"
+msgstr ""
+
+#: framework/meta-boxes.php:423
+msgid "Post media"
+msgstr ""
+
+#: framework/meta-boxes.php:430
+msgid "Video URL"
+msgstr ""
+
+#: framework/meta-boxes.php:432
+msgid "Enter Youtube or Vimeo URL"
+msgstr ""
+
+#: framework/meta-boxes.php:438 framework/visual_composer.php:2390
+#: framework/visual_composer.php:2751 framework/visual_composer.php:3295
+#: framework/visual_composer.php:4210
+msgid "Link"
+msgstr ""
+
+#: framework/meta-boxes.php:440
+msgid "Enter the link URL"
+msgstr ""
+
+#: framework/meta-boxes.php:445
+msgid "Gallery images"
+msgstr ""
+
+#: framework/meta-boxes.php:447
+msgid "Upload images for gallery/slider"
+msgstr ""
+
+#: framework/meta-boxes.php:453
+msgid "Show slider pagination?"
+msgstr ""
+
+#: framework/meta-boxes.php:455
+msgid "Select yes to show pagination for slider."
+msgstr ""
+
+#: framework/meta-boxes.php:464
+msgid "Show next/prev arrows?"
+msgstr ""
+
+#: framework/meta-boxes.php:475
+msgid "Slider autoplay?"
+msgstr ""
+
+#: framework/meta-boxes.php:477
+msgid "Select Yes to auto slide the posts gallery images."
+msgstr ""
+
+#: framework/meta-boxes.php:487
+msgid "Soundcloud Embed Code"
+msgstr ""
+
+#: framework/meta-boxes.php:489
+msgid ""
+"Paste your soundcloud audio embed code here. Help: http://bit.ly/2gRU1is"
+msgstr ""
+
+#: framework/meta-boxes.php:498
+msgid "Testimonial Author Info"
+msgstr ""
+
+#: framework/meta-boxes.php:502
+msgid "Sub title"
+msgstr ""
+
+#: framework/meta-boxes.php:504
+msgid ""
+"Enter sub title for the testimonial that will appear with the name of the "
+"author. It can be company name or job position."
+msgstr ""
+
+#: framework/meta-boxes.php:512
+msgid "Service Info"
+msgstr ""
+
+#: framework/meta-boxes.php:516
+msgid "Choose Icon"
+msgstr ""
+
+#: framework/meta-boxes.php:518
+msgid ""
+"Choose icon from the list of icons here to be used for this service. All "
+"Font Awesome Icon can be found here: http://fontawesome.io/icons/"
+msgstr ""
+
+#: framework/meta-boxes.php:523
+msgid "Upload icon image"
+msgstr ""
+
+#: framework/meta-boxes.php:525
+msgid "Upload icon image to use for this service."
+msgstr ""
+
+#: framework/meta-boxes.php:535
+msgid "Team Member Information"
+msgstr ""
+
+#: framework/meta-boxes.php:540
+msgid "Job position"
+msgstr ""
+
+#: framework/meta-boxes.php:542
+msgid "Enter job designation/position of team member."
+msgstr ""
+
+#: framework/meta-boxes.php:547
+msgid "Email"
+msgstr ""
+
+#: framework/meta-boxes.php:549
+msgid "Enter the team member's email."
+msgstr ""
+
+#: framework/meta-boxes.php:554
+msgid "Phone no."
+msgstr ""
+
+#: framework/meta-boxes.php:556
+msgid "Enter the team member's phone number."
+msgstr ""
+
+#: framework/meta-boxes.php:561 framework/visual_composer.php:3654
+msgid "Address"
+msgstr ""
+
+#: framework/meta-boxes.php:563
+msgid "Enter the team member's postal address."
+msgstr ""
+
+#: framework/meta-boxes.php:568 framework/visual_composer.php:3428
+msgid "Facebook"
+msgstr ""
+
+#: framework/meta-boxes.php:570
+msgid "Enter team member's Facebook account URL."
+msgstr ""
+
+#: framework/meta-boxes.php:575 framework/visual_composer.php:3429
+msgid "Twitter"
+msgstr ""
+
+#: framework/meta-boxes.php:577
+msgid "Enter team member's Twitter account URL."
+msgstr ""
+
+#: framework/meta-boxes.php:582 framework/visual_composer.php:3431
+msgid "Google Plus"
+msgstr ""
+
+#: framework/meta-boxes.php:584
+msgid "Enter team member's Google Plus profile URL."
+msgstr ""
+
+#: framework/meta-boxes.php:589 framework/visual_composer.php:3442
+msgid "Linkedin"
+msgstr ""
+
+#: framework/meta-boxes.php:591
+msgid "Enter team member's Linkedin profile URL."
+msgstr ""
+
+#: framework/meta-boxes.php:596 framework/visual_composer.php:3430
+msgid "Pinterest"
+msgstr ""
+
+#: framework/meta-boxes.php:598
+msgid "Enter team member's Pinterest profile URL."
+msgstr ""
+
+#: framework/meta-boxes.php:625
+msgid "Additional Info"
+msgstr ""
+
+#: framework/meta-boxes.php:629
+msgid "Page banner image"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:393
+#: framework/tgm/class-tgm-plugin-activation.php:914
+#: framework/tgm/class-tgm-plugin-activation.php:2628
+#: framework/tgm/class-tgm-plugin-activation.php:3678
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:394
+#: framework/tgm/class-tgm-plugin-activation.php:3257
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:395
+#: framework/tgm/class-tgm-plugin-activation.php:3050
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1021
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1021
+#: framework/tgm/class-tgm-plugin-activation.php:1024
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1024
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1208
+#: framework/tgm/class-tgm-plugin-activation.php:3046
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2069
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2360
+msgid "Required"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2363
+msgid "Recommended"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2379
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2382
+msgid "External Source"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2385
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2402
+msgid "Not Installed"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2406
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2408
+#: framework/visual_composer.php:4106
+msgid "Active"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2414
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2417
+msgid "Requires Update"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2420
+msgid "Update recommended"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2429
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2475
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2479
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2577
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2585
+msgid "Installed version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2593
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2605
+msgid "Available version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2628
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2644
+msgid "Type"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2699
+#: framework/tgm/class-tgm-plugin-activation.php:2712
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2704
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2706
+#, php-format
+msgid "Deactivate %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2782
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2815
+msgid "Install"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2821
+msgid "Update"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2824
+msgid "Activate"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2855
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2857
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2898
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2900
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3006
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3032
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3256
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3601
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3605
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3607
+#: framework/tgm/class-tgm-plugin-activation.php:3615
+msgid "Show Details"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3607
+#: framework/tgm/class-tgm-plugin-activation.php:3615
+msgid "Hide Details"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3608
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3613
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3616
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:9
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:15
+msgid "Pojo Sidebars"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:21
+msgid "Loco Translate"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:27
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:33
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:39
+msgid "Cryptocurrency Price Ticket Widget"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:45
+msgid "Best Contact Forms"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:62
+msgid "A Core Plugin"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:73
+msgid "WP Bakery Page Builder"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:83
+msgid "Eventer"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:93
+msgid "Virtual Coins Widgets VC"
+msgstr ""
+
+#: framework/theme-functions.php:43
+msgid "We are currently in maintenance mode, please check back shortly."
+msgstr ""
+
+#: framework/theme-functions.php:43
+msgid "Maintenance Mode"
+msgstr ""
+
+#: framework/theme-functions.php:169
+msgid "Blog Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:179
+msgid "Page Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:189
+msgid "Services Page"
+msgstr ""
+
+#: framework/theme-functions.php:199
+msgid "Projects Page"
+msgstr ""
+
+#: framework/theme-functions.php:209
+msgid "Team Page"
+msgstr ""
+
+#: framework/theme-functions.php:219
+msgid "Shop Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:231
+msgid "Footer widgets "
+msgstr ""
+
+#: framework/theme-functions.php:263
+msgid "Select Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:268
+msgid "Select Sidebar from list"
+msgstr ""
+
+#: framework/theme-functions.php:270
+msgid ""
+"Select Sidebar from list, if using page builder then please add sidebar from "
+"element only."
+msgstr ""
+
+#: framework/theme-functions.php:275
+msgid "Show no sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:277
+msgid "This will dishonour page sidebar chosen at Theme Options as well."
+msgstr ""
+
+#: framework/theme-functions.php:282
+msgid "Select Sidebar Position"
+msgstr ""
+
+#: framework/theme-functions.php:284
+msgid "Select Sidebar Postion"
+msgstr ""
+
+#: framework/theme-functions.php:293
+msgid "Sidebar Width"
+msgstr ""
+
+#: framework/theme-functions.php:295
+msgid "Select width of the page sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:298
+msgid "One Third"
+msgstr ""
+
+#: framework/theme-functions.php:299
+msgid "One Fourth"
+msgstr ""
+
+#: framework/theme-functions.php:300
+msgid "Half"
+msgstr ""
+
+#: framework/theme-functions.php:330
+msgid "One Page Menu"
+msgstr ""
+
+#: framework/theme-functions.php:338
+msgid "Select Menu from list"
+msgstr ""
+
+#: framework/theme-functions.php:340
+msgid ""
+"Select the menu from the list to use as this One Page menu. Your primary "
+"menu will be replaced by this selected menu on this page only and will be "
+"used as one page scroller. The pages added to the selected menu will be used "
+"as content of the one page website."
+msgstr ""
+
+#: framework/theme-functions.php:381
+msgid "Image URL"
+msgstr ""
+
+#: framework/theme-functions.php:418
+msgid "Post ID"
+msgstr ""
+
+#: framework/visual_composer.php:56 framework/visual_composer.php:125
+msgid "Color"
+msgstr ""
+
+#: framework/visual_composer.php:58
+msgid "Select button color."
+msgstr ""
+
+#: framework/visual_composer.php:63 framework/visual_composer.php:130
+#: framework/visual_composer.php:3391 framework/visual_composer.php:3540
+#: framework/visual_composer.php:3569
+msgid "Theme Primary Color"
+msgstr ""
+
+#: framework/visual_composer.php:64 framework/visual_composer.php:131
+#: framework/visual_composer.php:3390 framework/visual_composer.php:3541
+#: framework/visual_composer.php:3570
+msgid "Theme Secondary Color"
+msgstr ""
+
+#: framework/visual_composer.php:65 framework/visual_composer.php:132
+msgid "Classic Grey"
+msgstr ""
+
+#: framework/visual_composer.php:66 framework/visual_composer.php:133
+msgid "Classic Blue"
+msgstr ""
+
+#: framework/visual_composer.php:67 framework/visual_composer.php:134
+msgid "Classic Turquoise"
+msgstr ""
+
+#: framework/visual_composer.php:68 framework/visual_composer.php:135
+msgid "Classic Green"
+msgstr ""
+
+#: framework/visual_composer.php:69 framework/visual_composer.php:136
+msgid "Classic Orange"
+msgstr ""
+
+#: framework/visual_composer.php:70 framework/visual_composer.php:137
+msgid "Classic Red"
+msgstr ""
+
+#: framework/visual_composer.php:71 framework/visual_composer.php:138
+msgid "Classic Black"
+msgstr ""
+
+#: framework/visual_composer.php:91
+msgid "Values"
+msgstr ""
+
+#: framework/visual_composer.php:93
+msgid "Enter values for graph - value, title and color."
+msgstr ""
+
+#: framework/visual_composer.php:96
+msgid "Development"
+msgstr ""
+
+#: framework/visual_composer.php:100
+msgid "Design"
+msgstr ""
+
+#: framework/visual_composer.php:104
+msgid "Marketing"
+msgstr ""
+
+#: framework/visual_composer.php:113
+msgid "Enter text used as title of bar."
+msgstr ""
+
+#: framework/visual_composer.php:118
+msgid "Value"
+msgstr ""
+
+#: framework/visual_composer.php:120
+msgid "Enter value of bar."
+msgstr ""
+
+#: framework/visual_composer.php:128
+msgid "Default"
+msgstr ""
+
+#: framework/visual_composer.php:142
+msgid "Select single bar background color."
+msgstr ""
+
+#: framework/visual_composer.php:148
+msgid "Custom color"
+msgstr ""
+
+#: framework/visual_composer.php:150
+msgid "Select custom single bar background color."
+msgstr ""
+
+#: framework/visual_composer.php:158
+msgid "Custom text color"
+msgstr ""
+
+#: framework/visual_composer.php:160
+msgid "Select custom single bar text color."
+msgstr ""
+
+#: framework/visual_composer.php:229
+msgid "Select"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: framework/visual_composer.php:240 framework/visual_composer.php:587
+#: framework/visual_composer.php:977 framework/visual_composer.php:1383
+#: framework/visual_composer.php:1696 framework/visual_composer.php:2100
+#: framework/visual_composer.php:2151 framework/visual_composer.php:2432
+#: framework/visual_composer.php:2778 framework/visual_composer.php:2874
+#: framework/visual_composer.php:3173 framework/visual_composer.php:3199
+#: framework/visual_composer.php:3318 framework/visual_composer.php:3344
+#: framework/visual_composer.php:3414 framework/visual_composer.php:3593
+#: framework/visual_composer.php:3705 framework/visual_composer.php:3731
+#: framework/visual_composer.php:3887 framework/visual_composer.php:4005
+#: framework/visual_composer.php:4084 framework/visual_composer.php:4229
+#: welcome.php:42
+msgid "Blokco"
+msgstr ""
+
+#: framework/visual_composer.php:245 framework/visual_composer.php:592
+#: framework/visual_composer.php:982 framework/visual_composer.php:1396
+#: framework/visual_composer.php:1701
+msgid "View Style"
+msgstr ""
+
+#: framework/visual_composer.php:247 framework/visual_composer.php:594
+#: framework/visual_composer.php:984 framework/visual_composer.php:1398
+#: framework/visual_composer.php:1703
+msgid "Grid"
+msgstr ""
+
+#: framework/visual_composer.php:247 framework/visual_composer.php:594
+#: framework/visual_composer.php:984 framework/visual_composer.php:1398
+#: framework/visual_composer.php:1703
+msgid "Carousel"
+msgstr ""
+
+#: framework/visual_composer.php:248
+msgid "Select view style for projects."
+msgstr ""
+
+#: framework/visual_composer.php:253 framework/visual_composer.php:600
+#: framework/visual_composer.php:990 framework/visual_composer.php:1405
+#: framework/visual_composer.php:1709
+msgid "Grid Column"
+msgstr ""
+
+#: framework/visual_composer.php:255 framework/visual_composer.php:602
+#: framework/visual_composer.php:992 framework/visual_composer.php:1407
+#: framework/visual_composer.php:1711
+msgid "One Column"
+msgstr ""
+
+#: framework/visual_composer.php:255 framework/visual_composer.php:602
+#: framework/visual_composer.php:992 framework/visual_composer.php:1407
+#: framework/visual_composer.php:1711
+msgid "Two Columns"
+msgstr ""
+
+#: framework/visual_composer.php:255 framework/visual_composer.php:602
+#: framework/visual_composer.php:992 framework/visual_composer.php:1407
+#: framework/visual_composer.php:1711
+msgid "Three Columns"
+msgstr ""
+
+#: framework/visual_composer.php:255 framework/visual_composer.php:602
+#: framework/visual_composer.php:992 framework/visual_composer.php:1407
+#: framework/visual_composer.php:1711
+msgid "Four Columns"
+msgstr ""
+
+#: framework/visual_composer.php:255 framework/visual_composer.php:602
+#: framework/visual_composer.php:992 framework/visual_composer.php:1407
+#: framework/visual_composer.php:1711
+msgid "Five Columns"
+msgstr ""
+
+#: framework/visual_composer.php:255 framework/visual_composer.php:602
+#: framework/visual_composer.php:992 framework/visual_composer.php:1407
+#: framework/visual_composer.php:1711
+msgid "Six Columns"
+msgstr ""
+
+#: framework/visual_composer.php:256 framework/visual_composer.php:603
+#: framework/visual_composer.php:993 framework/visual_composer.php:1408
+#: framework/visual_composer.php:1712
+msgid "Select columns of grid/carousel."
+msgstr ""
+
+#: framework/visual_composer.php:261 framework/visual_composer.php:612
+#: framework/visual_composer.php:1014 framework/visual_composer.php:1414
+#: framework/visual_composer.php:1737
+msgid "Masonry Grid?"
+msgstr ""
+
+#: framework/visual_composer.php:274 framework/visual_composer.php:2439
+msgid "Style1"
+msgstr ""
+
+#: framework/visual_composer.php:279
+msgid "Show project category filters?"
+msgstr ""
+
+#: framework/visual_composer.php:290 framework/visual_composer.php:623
+#: framework/visual_composer.php:1025 framework/visual_composer.php:1425
+#: framework/visual_composer.php:1748 framework/visual_composer.php:3806
+msgid "Show carousel next/prev arrows?"
+msgstr ""
+
+#: framework/visual_composer.php:301 framework/visual_composer.php:634
+#: framework/visual_composer.php:1036 framework/visual_composer.php:1432
+#: framework/visual_composer.php:1759 framework/visual_composer.php:3813
+msgid "Carousel next/prev arrows position?"
+msgstr ""
+
+#: framework/visual_composer.php:303 framework/visual_composer.php:636
+#: framework/visual_composer.php:1038 framework/visual_composer.php:1434
+#: framework/visual_composer.php:1761 framework/visual_composer.php:3815
+msgid "Below Carousel"
+msgstr ""
+
+#: framework/visual_composer.php:303 framework/visual_composer.php:636
+#: framework/visual_composer.php:1038 framework/visual_composer.php:1434
+#: framework/visual_composer.php:1761 framework/visual_composer.php:3815
+msgid "Over Carousel"
+msgstr ""
+
+#: framework/visual_composer.php:312 framework/visual_composer.php:645
+#: framework/visual_composer.php:1047 framework/visual_composer.php:1443
+#: framework/visual_composer.php:1770 framework/visual_composer.php:3824
+msgid "Show carousel pagination?"
+msgstr ""
+
+#: framework/visual_composer.php:323 framework/visual_composer.php:656
+#: framework/visual_composer.php:1058 framework/visual_composer.php:1450
+#: framework/visual_composer.php:1781 framework/visual_composer.php:3831
+msgid "Autoplay Carousel?"
+msgstr ""
+
+#: framework/visual_composer.php:334 framework/visual_composer.php:667
+#: framework/visual_composer.php:1069 framework/visual_composer.php:1457
+#: framework/visual_composer.php:1792 framework/visual_composer.php:3838
+msgid "Auto Rotate Timeout?"
+msgstr ""
+
+#: framework/visual_composer.php:336 framework/visual_composer.php:669
+#: framework/visual_composer.php:1071 framework/visual_composer.php:1459
+#: framework/visual_composer.php:1794 framework/visual_composer.php:3840
+msgid "Autoplay interval timeout. 1000 = 1 second."
+msgstr ""
+
+#: framework/visual_composer.php:345 framework/visual_composer.php:678
+#: framework/visual_composer.php:1080 framework/visual_composer.php:1468
+#: framework/visual_composer.php:1803 framework/visual_composer.php:3849
+msgid "Loop carousel?"
+msgstr ""
+
+#: framework/visual_composer.php:348 framework/visual_composer.php:681
+#: framework/visual_composer.php:1083 framework/visual_composer.php:1806
+#: framework/visual_composer.php:3852
+msgid ""
+"If you want the carousel to keep rotating using pagination and naxt/prev "
+"buttons without scrolling back."
+msgstr ""
+
+#: framework/visual_composer.php:357 framework/visual_composer.php:690
+#: framework/visual_composer.php:1092 framework/visual_composer.php:1476
+#: framework/visual_composer.php:1815 framework/visual_composer.php:3857
+msgid "Show next/prev items?"
+msgstr ""
+
+#: framework/visual_composer.php:360 framework/visual_composer.php:693
+#: framework/visual_composer.php:1095 framework/visual_composer.php:1479
+#: framework/visual_composer.php:1818 framework/visual_composer.php:3860
+msgid ""
+"Check this option if you want the carousel to show next and previous item in "
+"a faded view"
+msgstr ""
+
+#: framework/visual_composer.php:370 framework/visual_composer.php:703
+#: framework/visual_composer.php:1105 framework/visual_composer.php:1488
+#: framework/visual_composer.php:1828 framework/visual_composer.php:3865
+msgid "Overflow Hidden?"
+msgstr ""
+
+#: framework/visual_composer.php:373 framework/visual_composer.php:706
+#: framework/visual_composer.php:1108 framework/visual_composer.php:1491
+#: framework/visual_composer.php:1831 framework/visual_composer.php:3868
+msgid ""
+"Check this option if you want to keep the carousel in the fixed width of the "
+"container of the page with no overflow view on slide. This can hide the "
+"outside border/shadow of the item blocks."
+msgstr ""
+
+#: framework/visual_composer.php:382
+msgid "Link project image to big image in Lightbox?"
+msgstr ""
+
+#: framework/visual_composer.php:389
+msgid "Show project title?"
+msgstr ""
+
+#: framework/visual_composer.php:396
+msgid "Show project categories?"
+msgstr ""
+
+#: framework/visual_composer.php:403 framework/visual_composer.php:782
+#: framework/visual_composer.php:1164 framework/visual_composer.php:1868
+msgid "Show Excerpt?"
+msgstr ""
+
+#: framework/visual_composer.php:423
+msgid "Project Categories"
+msgstr ""
+
+#: framework/visual_composer.php:425
+msgid ""
+"Show projects by specific categories. Search and enter by typing category "
+"names."
+msgstr ""
+
+#: framework/visual_composer.php:442
+msgid "Number of projects"
+msgstr ""
+
+#: framework/visual_composer.php:445
+msgid "Insert number of projects to show per page."
+msgstr ""
+
+#: framework/visual_composer.php:449 framework/visual_composer.php:734
+#: framework/visual_composer.php:1240 framework/visual_composer.php:1931
+#: framework/visual_composer.php:2449
+msgid "Thumbnail size"
+msgstr ""
+
+#: framework/visual_composer.php:452 framework/visual_composer.php:737
+#: framework/visual_composer.php:1934 framework/visual_composer.php:2452
+msgid ""
+"Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: framework/visual_composer.php:456 framework/visual_composer.php:847
+#: framework/visual_composer.php:1251 framework/visual_composer.php:1563
+#: framework/visual_composer.php:1969
+msgid "Show Pagination?"
+msgstr ""
+
+#: framework/visual_composer.php:458
+msgid "Show pagination for Projects."
+msgstr ""
+
+#: framework/visual_composer.php:467 framework/visual_composer.php:858
+#: framework/visual_composer.php:1262 framework/visual_composer.php:1574
+#: framework/visual_composer.php:1980 framework/visual_composer.php:2418
+#: framework/visual_composer.php:2763 framework/visual_composer.php:2860
+#: framework/visual_composer.php:3158 framework/visual_composer.php:3185
+#: framework/visual_composer.php:3302 framework/visual_composer.php:3330
+#: framework/visual_composer.php:3579 framework/visual_composer.php:3691
+#: framework/visual_composer.php:3716 framework/visual_composer.php:3873
+#: framework/visual_composer.php:3991 framework/visual_composer.php:4070
+#: framework/visual_composer.php:4216 framework/visual_composer.php:4263
+msgid "Css"
+msgstr ""
+
+#: framework/visual_composer.php:469 framework/visual_composer.php:860
+#: framework/visual_composer.php:1264 framework/visual_composer.php:1576
+#: framework/visual_composer.php:1982 framework/visual_composer.php:2420
+#: framework/visual_composer.php:2765 framework/visual_composer.php:2862
+#: framework/visual_composer.php:3160 framework/visual_composer.php:3187
+#: framework/visual_composer.php:3304 framework/visual_composer.php:3332
+#: framework/visual_composer.php:3581 framework/visual_composer.php:3693
+#: framework/visual_composer.php:3718 framework/visual_composer.php:3875
+#: framework/visual_composer.php:3993 framework/visual_composer.php:4072
+#: framework/visual_composer.php:4218 framework/visual_composer.php:4265
+msgid "Design options"
+msgstr ""
+
+#: framework/visual_composer.php:473 framework/visual_composer.php:864
+#: framework/visual_composer.php:1268 framework/visual_composer.php:1580
+#: framework/visual_composer.php:1986
+msgid "Items Border Radius"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "0px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "1px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "2px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "3px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "4px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "5px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "10px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "15px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "20px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "25px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "30px"
+msgstr ""
+
+#: framework/visual_composer.php:476 framework/visual_composer.php:867
+#: framework/visual_composer.php:1271 framework/visual_composer.php:1583
+#: framework/visual_composer.php:1989
+msgid "35px"
+msgstr ""
+
+#: framework/visual_composer.php:477 framework/visual_composer.php:868
+#: framework/visual_composer.php:1272 framework/visual_composer.php:1584
+#: framework/visual_composer.php:1990
+msgid "Choose border radius for the post items."
+msgstr ""
+
+#: framework/visual_composer.php:482 framework/visual_composer.php:873
+#: framework/visual_composer.php:1277 framework/visual_composer.php:1589
+#: framework/visual_composer.php:1995
+msgid "Spaced items"
+msgstr ""
+
+#: framework/visual_composer.php:485 framework/visual_composer.php:876
+#: framework/visual_composer.php:1280 framework/visual_composer.php:1592
+#: framework/visual_composer.php:1998
+msgid "Spaced"
+msgstr ""
+
+#: framework/visual_composer.php:485 framework/visual_composer.php:876
+#: framework/visual_composer.php:1280 framework/visual_composer.php:1592
+#: framework/visual_composer.php:1998
+msgid "No space"
+msgstr ""
+
+#: framework/visual_composer.php:486 framework/visual_composer.php:877
+#: framework/visual_composer.php:1281 framework/visual_composer.php:1593
+#: framework/visual_composer.php:1999
+msgid "Choose if you want to have space/gutter between items or not."
+msgstr ""
+
+#: framework/visual_composer.php:491 framework/visual_composer.php:882
+#: framework/visual_composer.php:1286 framework/visual_composer.php:1598
+#: framework/visual_composer.php:2004
+msgid "Border style"
+msgstr ""
+
+#: framework/visual_composer.php:494 framework/visual_composer.php:575
+#: framework/visual_composer.php:885 framework/visual_composer.php:966
+#: framework/visual_composer.php:1289 framework/visual_composer.php:1370
+#: framework/visual_composer.php:1601 framework/visual_composer.php:1684
+#: framework/visual_composer.php:2007 framework/visual_composer.php:2088
+msgid "Shadow"
+msgstr ""
+
+#: framework/visual_composer.php:499 framework/visual_composer.php:890
+#: framework/visual_composer.php:1294 framework/visual_composer.php:1607
+#: framework/visual_composer.php:2012
+msgid "Background style"
+msgstr ""
+
+#: framework/visual_composer.php:502 framework/visual_composer.php:893
+#: framework/visual_composer.php:1297 framework/visual_composer.php:1610
+#: framework/visual_composer.php:2015
+msgid "White"
+msgstr ""
+
+#: framework/visual_composer.php:507 framework/visual_composer.php:898
+#: framework/visual_composer.php:1302 framework/visual_composer.php:1616
+#: framework/visual_composer.php:2020
+msgid "Custom background color"
+msgstr ""
+
+#: framework/visual_composer.php:515 framework/visual_composer.php:906
+#: framework/visual_composer.php:1310 framework/visual_composer.php:1624
+#: framework/visual_composer.php:2028
+msgid "Skin style"
+msgstr ""
+
+#: framework/visual_composer.php:523 framework/visual_composer.php:914
+#: framework/visual_composer.php:1318 framework/visual_composer.php:1632
+#: framework/visual_composer.php:2036 framework/visual_composer.php:2477
+msgid "Grayscale Images"
+msgstr ""
+
+#: framework/visual_composer.php:532 framework/visual_composer.php:923
+#: framework/visual_composer.php:1327 framework/visual_composer.php:1641
+#: framework/visual_composer.php:2045 framework/visual_composer.php:2485
+msgid "Disable grayscale on hover?"
+msgstr ""
+
+#: framework/visual_composer.php:545 framework/visual_composer.php:936
+#: framework/visual_composer.php:1340 framework/visual_composer.php:1654
+#: framework/visual_composer.php:2058 framework/visual_composer.php:2497
+msgid "Images overlay background"
+msgstr ""
+
+#: framework/visual_composer.php:548 framework/visual_composer.php:939
+#: framework/visual_composer.php:1343 framework/visual_composer.php:1657
+#: framework/visual_composer.php:2061 framework/visual_composer.php:2499
+#: framework/visual_composer.php:3289
+msgid "Primary Color"
+msgstr ""
+
+#: framework/visual_composer.php:548 framework/visual_composer.php:939
+#: framework/visual_composer.php:1343 framework/visual_composer.php:1657
+#: framework/visual_composer.php:2061 framework/visual_composer.php:2499
+#: framework/visual_composer.php:3289
+msgid "Secondary Color"
+msgstr ""
+
+#: framework/visual_composer.php:553 framework/visual_composer.php:944
+#: framework/visual_composer.php:1348 framework/visual_composer.php:1662
+#: framework/visual_composer.php:2066 framework/visual_composer.php:2504
+msgid "Images overlay background opacity"
+msgstr ""
+
+#: framework/visual_composer.php:556 framework/visual_composer.php:947
+#: framework/visual_composer.php:1351 framework/visual_composer.php:1665
+#: framework/visual_composer.php:2069 framework/visual_composer.php:2506
+msgid "Full dark"
+msgstr ""
+
+#: framework/visual_composer.php:562 framework/visual_composer.php:953
+#: framework/visual_composer.php:1357 framework/visual_composer.php:1671
+#: framework/visual_composer.php:2075 framework/visual_composer.php:2512
+msgid "Hide overlay on hover?"
+msgstr ""
+
+#: framework/visual_composer.php:575 framework/visual_composer.php:966
+#: framework/visual_composer.php:1370 framework/visual_composer.php:1684
+#: framework/visual_composer.php:2088
+msgid "Move top"
+msgstr ""
+
+#: framework/visual_composer.php:575 framework/visual_composer.php:966
+#: framework/visual_composer.php:1370 framework/visual_composer.php:1684
+#: framework/visual_composer.php:2088
+msgid "Shadow + Move top"
+msgstr ""
+
+#: framework/visual_composer.php:594
+msgid "List"
+msgstr ""
+
+#: framework/visual_composer.php:595
+msgid "Select view style for services."
+msgstr ""
+
+#: framework/visual_composer.php:715
+msgid "Show Thumbnail or Icon"
+msgstr ""
+
+#: framework/visual_composer.php:717
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/visual_composer.php:718
+msgid "Select thumbnail or icon view for services."
+msgstr ""
+
+#: framework/visual_composer.php:723
+msgid "Icon font size"
+msgstr ""
+
+#: framework/visual_composer.php:725
+msgid "Enter font size for the service icons. Add px here. For example: 40px."
+msgstr ""
+
+#: framework/visual_composer.php:745 framework/visual_composer.php:1725
+msgid "Align content?"
+msgstr ""
+
+#: framework/visual_composer.php:748
+msgid "Select alignment for the service grid content."
+msgstr ""
+
+#: framework/visual_composer.php:757
+msgid "Link Image/Icon/Title to single service page?"
+msgstr ""
+
+#: framework/visual_composer.php:764
+msgid "Show services title?"
+msgstr ""
+
+#: framework/visual_composer.php:771
+msgid "Title font size"
+msgstr ""
+
+#: framework/visual_composer.php:773
+msgid "Enter font size for the service title. Add px here. For example: 20px."
+msgstr ""
+
+#: framework/visual_composer.php:801
+msgid "Show read more link?"
+msgstr ""
+
+#: framework/visual_composer.php:810
+msgid "Read more link text"
+msgstr ""
+
+#: framework/visual_composer.php:821
+msgid "Service Categories"
+msgstr ""
+
+#: framework/visual_composer.php:823
+msgid ""
+"Show services by specific categories. Search and enter by typing category "
+"names."
+msgstr ""
+
+#: framework/visual_composer.php:840
+msgid "Number of Services"
+msgstr ""
+
+#: framework/visual_composer.php:843
+msgid "Insert number of services to show per page."
+msgstr ""
+
+#: framework/visual_composer.php:849
+msgid "Show pagination for services."
+msgstr ""
+
+#: framework/visual_composer.php:975
+msgid "Blog Posts"
+msgstr ""
+
+#: framework/visual_composer.php:984
+msgid "Medium Thumbnails"
+msgstr ""
+
+#: framework/visual_composer.php:985
+msgid "Select view style for posts."
+msgstr ""
+
+#: framework/visual_composer.php:1004
+msgid "Classic"
+msgstr ""
+
+#: framework/visual_composer.php:1004
+msgid "Modern"
+msgstr ""
+
+#: framework/visual_composer.php:1005
+msgid "Select style for grid/carousel."
+msgstr ""
+
+#: framework/visual_composer.php:1124
+msgid "Show post featured image only"
+msgstr ""
+
+#: framework/visual_composer.php:1125
+msgid "Check to show only featured image instead of different media content."
+msgstr ""
+
+#: framework/visual_composer.php:1136
+msgid "Show post date?"
+msgstr ""
+
+#: framework/visual_composer.php:1143
+msgid "Show post author name?"
+msgstr ""
+
+#: framework/visual_composer.php:1157
+msgid "Show post comments number?"
+msgstr ""
+
+#: framework/visual_composer.php:1192 framework/visual_composer.php:1896
+msgid "Read more button label"
+msgstr ""
+
+#: framework/visual_composer.php:1202
+msgid "Read more button style"
+msgstr ""
+
+#: framework/visual_composer.php:1204
+msgid "Text Link"
+msgstr ""
+
+#: framework/visual_composer.php:1214
+msgid "Posts Categories"
+msgstr ""
+
+#: framework/visual_composer.php:1216
+msgid ""
+"Show posts by specific categories. Search and enter by typing category names."
+msgstr ""
+
+#: framework/visual_composer.php:1233
+msgid "Number of Posts"
+msgstr ""
+
+#: framework/visual_composer.php:1236
+msgid "Insert number of posts to show per page."
+msgstr ""
+
+#: framework/visual_composer.php:1243
+msgid ""
+"Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size. This works for only "
+"standard or Image format posts."
+msgstr ""
+
+#: framework/visual_composer.php:1253
+msgid "Show pagination for posts."
+msgstr ""
+
+#: framework/visual_composer.php:1390 framework/visual_composer.php:2439
+msgid "Style2"
+msgstr ""
+
+#: framework/visual_composer.php:1390
+msgid "Style3"
+msgstr ""
+
+#: framework/visual_composer.php:1391
+msgid "Select style for testimonials."
+msgstr ""
+
+#: framework/visual_composer.php:1399
+msgid "Select view style for testimonials."
+msgstr ""
+
+#: framework/visual_composer.php:1471
+msgid ""
+"If you want the carousel to keep rotating using pagination and next/prev "
+"buttons without scrolling back. Auto height will not work if loop is enabled."
+msgstr ""
+
+#: framework/visual_composer.php:1500
+msgid "Show testimonial author photo?"
+msgstr ""
+
+#: framework/visual_composer.php:1507
+msgid "Show testimonial author title?"
+msgstr ""
+
+#: framework/visual_composer.php:1514
+msgid "Show testimonial sub title?"
+msgstr ""
+
+#: framework/visual_composer.php:1521
+msgid "Image position?"
+msgstr ""
+
+#: framework/visual_composer.php:1529
+msgid "Image shape?"
+msgstr ""
+
+#: framework/visual_composer.php:1537
+msgid "Testimonial Categories"
+msgstr ""
+
+#: framework/visual_composer.php:1539
+msgid ""
+"Show testimonials by specific categories. Search and enter by typing "
+"category names."
+msgstr ""
+
+#: framework/visual_composer.php:1556
+msgid "Number of Testimonials"
+msgstr ""
+
+#: framework/visual_composer.php:1559
+msgid "Insert number of testimonials to show per page."
+msgstr ""
+
+#: framework/visual_composer.php:1565
+msgid "Show pagination for tesimonials."
+msgstr ""
+
+#: framework/visual_composer.php:1704
+msgid "Select view style for team."
+msgstr ""
+
+#: framework/visual_composer.php:1719
+msgid "Block Style"
+msgstr ""
+
+#: framework/visual_composer.php:1719
+msgid "List Style"
+msgstr ""
+
+#: framework/visual_composer.php:1720
+msgid "Select style for the team"
+msgstr ""
+
+#: framework/visual_composer.php:1728
+msgid "Select alignment for the team content."
+msgstr ""
+
+#: framework/visual_composer.php:1840
+msgid "Show team member designation?"
+msgstr ""
+
+#: framework/visual_composer.php:1847
+msgid "Show team member email?"
+msgstr ""
+
+#: framework/visual_composer.php:1854
+msgid "Show team member phone?"
+msgstr ""
+
+#: framework/visual_composer.php:1861
+msgid "Show team member social links?"
+msgstr ""
+
+#: framework/visual_composer.php:1906
+msgid "Link title/image to details page?"
+msgstr ""
+
+#: framework/visual_composer.php:1913
+msgid "Show thumbnail?"
+msgstr ""
+
+#: framework/visual_composer.php:1920
+msgid "Round Image?"
+msgstr ""
+
+#: framework/visual_composer.php:1943
+msgid "Team Categories"
+msgstr ""
+
+#: framework/visual_composer.php:1945
+msgid ""
+"Show team by specific categories. Search and enter by typing category names."
+msgstr ""
+
+#: framework/visual_composer.php:1962
+msgid "Number of Team members"
+msgstr ""
+
+#: framework/visual_composer.php:1965
+msgid "Insert number of team to show per page."
+msgstr ""
+
+#: framework/visual_composer.php:1971
+msgid ""
+"Show pagination. This will work on an individual team page not on homepage."
+msgstr ""
+
+#: framework/visual_composer.php:2098
+msgid "Team info"
+msgstr ""
+
+#: framework/visual_composer.php:2107
+msgid "Horizontal"
+msgstr ""
+
+#: framework/visual_composer.php:2107
+msgid "Vertical"
+msgstr ""
+
+#: framework/visual_composer.php:2112
+msgid "Show Address?"
+msgstr ""
+
+#: framework/visual_composer.php:2114
+msgid "Check to show team member postal address."
+msgstr ""
+
+#: framework/visual_composer.php:2120
+msgid "Show Phone?"
+msgstr ""
+
+#: framework/visual_composer.php:2122
+msgid "Check to show team member phone number."
+msgstr ""
+
+#: framework/visual_composer.php:2128
+msgid "Show Email?"
+msgstr ""
+
+#: framework/visual_composer.php:2130
+msgid "Check to show team member email address."
+msgstr ""
+
+#: framework/visual_composer.php:2136
+msgid "Show Social Icons?"
+msgstr ""
+
+#: framework/visual_composer.php:2138
+msgid "Check to show team member social profile links."
+msgstr ""
+
+#: framework/visual_composer.php:2149
+msgid "Icon Box"
+msgstr ""
+
+#: framework/visual_composer.php:2156 framework/visual_composer.php:2521
+#: framework/visual_composer.php:2879
+msgid "Icon library"
+msgstr ""
+
+#: framework/visual_composer.php:2158 framework/visual_composer.php:2523
+#: framework/visual_composer.php:2881
+msgid "Font Awesome"
+msgstr ""
+
+#: framework/visual_composer.php:2159 framework/visual_composer.php:2524
+#: framework/visual_composer.php:2882
+msgid "Open Iconic"
+msgstr ""
+
+#: framework/visual_composer.php:2160 framework/visual_composer.php:2525
+#: framework/visual_composer.php:2883
+msgid "Typicons"
+msgstr ""
+
+#: framework/visual_composer.php:2161 framework/visual_composer.php:2526
+#: framework/visual_composer.php:2884
+msgid "Entypo"
+msgstr ""
+
+#: framework/visual_composer.php:2162 framework/visual_composer.php:2527
+#: framework/visual_composer.php:2885
+msgid "Linecons"
+msgstr ""
+
+#: framework/visual_composer.php:2163 framework/visual_composer.php:2528
+#: framework/visual_composer.php:2886
+msgid "Mono Social"
+msgstr ""
+
+#: framework/visual_composer.php:2164 framework/visual_composer.php:2529
+#: framework/visual_composer.php:2887
+msgid "Material"
+msgstr ""
+
+#: framework/visual_composer.php:2168 framework/visual_composer.php:2532
+#: framework/visual_composer.php:2891
+msgid "Select icon library."
+msgstr ""
+
+#: framework/visual_composer.php:2186 framework/visual_composer.php:2205
+#: framework/visual_composer.php:2224 framework/visual_composer.php:2261
+#: framework/visual_composer.php:2280 framework/visual_composer.php:2299
+#: framework/visual_composer.php:2554 framework/visual_composer.php:2573
+#: framework/visual_composer.php:2592 framework/visual_composer.php:2629
+#: framework/visual_composer.php:2648 framework/visual_composer.php:2667
+#: framework/visual_composer.php:2909 framework/visual_composer.php:2928
+#: framework/visual_composer.php:2947 framework/visual_composer.php:2984
+#: framework/visual_composer.php:3003 framework/visual_composer.php:3022
+msgid "Select icon from library."
+msgstr ""
+
+#: framework/visual_composer.php:2303
+msgid "Icon - Size"
+msgstr ""
+
+#: framework/visual_composer.php:2305
+msgid "16px"
+msgstr ""
+
+#: framework/visual_composer.php:2305
+msgid "32px"
+msgstr ""
+
+#: framework/visual_composer.php:2305
+msgid "48px"
+msgstr ""
+
+#: framework/visual_composer.php:2305
+msgid "64px"
+msgstr ""
+
+#: framework/visual_composer.php:2311 framework/visual_composer.php:2671
+#: framework/visual_composer.php:3026
+msgid "Icon - Color"
+msgstr ""
+
+#: framework/visual_composer.php:2321 framework/visual_composer.php:2685
+#: framework/visual_composer.php:3036
+msgid "Icon - Color Custom"
+msgstr ""
+
+#: framework/visual_composer.php:2335 framework/visual_composer.php:2699
+#: framework/visual_composer.php:4158
+msgid "Title - Font Size (Add px)"
+msgstr ""
+
+#: framework/visual_composer.php:2342 framework/visual_composer.php:2705
+#: framework/visual_composer.php:2790 framework/visual_composer.php:3084
+#: framework/visual_composer.php:3906 framework/visual_composer.php:4164
+msgid "Title - Color"
+msgstr ""
+
+#: framework/visual_composer.php:2352 framework/visual_composer.php:2715
+#: framework/visual_composer.php:2800 framework/visual_composer.php:3094
+#: framework/visual_composer.php:3916 framework/visual_composer.php:4174
+msgid "Title - Color Custom"
+msgstr ""
+
+#: framework/visual_composer.php:2359 framework/visual_composer.php:2722
+#: framework/visual_composer.php:4181
+msgid "Description"
+msgstr ""
+
+#: framework/visual_composer.php:2366 framework/visual_composer.php:2728
+#: framework/visual_composer.php:4187
+msgid "Description - Font Size (Add px)"
+msgstr ""
+
+#: framework/visual_composer.php:2373 framework/visual_composer.php:2734
+#: framework/visual_composer.php:4193
+msgid "Description - Color"
+msgstr ""
+
+#: framework/visual_composer.php:2383 framework/visual_composer.php:2744
+#: framework/visual_composer.php:4203
+msgid "Description - Color Custom"
+msgstr ""
+
+#: framework/visual_composer.php:2392
+msgid "Enter/Select URL that will be added to Icon and Title."
+msgstr ""
+
+#: framework/visual_composer.php:2396 framework/visual_composer.php:3142
+#: framework/visual_composer.php:3463
+msgid "Align"
+msgstr ""
+
+#: framework/visual_composer.php:2403
+msgid "Outline or Border"
+msgstr ""
+
+#: framework/visual_composer.php:2405
+msgid "Outline"
+msgstr ""
+
+#: framework/visual_composer.php:2406
+msgid "Outline comes with background plus border"
+msgstr ""
+
+#: framework/visual_composer.php:2411
+msgid "Icon box shape"
+msgstr ""
+
+#: framework/visual_composer.php:2413
+msgid "Circle"
+msgstr ""
+
+#: framework/visual_composer.php:2413
+msgid "No box"
+msgstr ""
+
+#: framework/visual_composer.php:2430
+msgid "Featured Block"
+msgstr ""
+
+#: framework/visual_composer.php:2437
+msgid "Featured Block Style"
+msgstr ""
+
+#: framework/visual_composer.php:2444
+msgid "Featured Block Image"
+msgstr ""
+
+#: framework/visual_composer.php:2456 framework/visual_composer.php:4089
+msgid "Accent Color"
+msgstr ""
+
+#: framework/visual_composer.php:2470 framework/visual_composer.php:4099
+msgid "Accent Color Custom"
+msgstr ""
+
+#: framework/visual_composer.php:2753
+msgid "Enter/Select URL for the featured block."
+msgstr ""
+
+#: framework/visual_composer.php:2757
+msgid "Read more link button label"
+msgstr ""
+
+#: framework/visual_composer.php:2759
+msgid "Find our more"
+msgstr ""
+
+#: framework/visual_composer.php:2776
+msgid "Round Progress"
+msgstr ""
+
+#: framework/visual_composer.php:2807
+msgid "Percentage (DO NOT ADD %)"
+msgstr ""
+
+#: framework/visual_composer.php:2814
+msgid "Show percentage?"
+msgstr ""
+
+#: framework/visual_composer.php:2815
+msgid "Uncheck to hide the percentage."
+msgstr ""
+
+#: framework/visual_composer.php:2822
+msgid "Percentage - Color"
+msgstr ""
+
+#: framework/visual_composer.php:2833
+msgid "Percentage - Color Custom"
+msgstr ""
+
+#: framework/visual_composer.php:2840
+msgid "Progress bar - Color"
+msgstr ""
+
+#: framework/visual_composer.php:2846
+msgid "Progress bar - Base Color"
+msgstr ""
+
+#: framework/visual_composer.php:2852
+msgid "Thickness"
+msgstr ""
+
+#: framework/visual_composer.php:2854
+msgid ".1"
+msgstr ""
+
+#: framework/visual_composer.php:2854
+msgid ".2"
+msgstr ""
+
+#: framework/visual_composer.php:2854
+msgid ".3"
+msgstr ""
+
+#: framework/visual_composer.php:2854
+msgid ".4"
+msgstr ""
+
+#: framework/visual_composer.php:2854
+msgid ".5"
+msgstr ""
+
+#: framework/visual_composer.php:2872
+msgid "Number Counter"
+msgstr ""
+
+#: framework/visual_composer.php:3029 framework/visual_composer.php:3054
+#: framework/visual_composer.php:3910 framework/visual_composer.php:3960
+#: framework/visual_composer.php:3978 framework/visual_composer.php:4056
+msgid "Theme Secondary color"
+msgstr ""
+
+#: framework/visual_composer.php:3043
+msgid "Icon - Font size"
+msgstr ""
+
+#: framework/visual_composer.php:3046
+msgid "Icon - font size (Add px)"
+msgstr ""
+
+#: framework/visual_composer.php:3050
+msgid "Icon - Background Color"
+msgstr ""
+
+#: framework/visual_composer.php:3060
+msgid "Icon - Background Color Custom"
+msgstr ""
+
+#: framework/visual_composer.php:3067
+msgid "Icon background shape"
+msgstr ""
+
+#: framework/visual_composer.php:3073
+msgid "Plain(With no background color)"
+msgstr ""
+
+#: framework/visual_composer.php:3101
+msgid "Title - Font size (Add px)"
+msgstr ""
+
+#: framework/visual_composer.php:3107
+msgid "Number to count"
+msgstr ""
+
+#: framework/visual_composer.php:3113
+msgid "Text next to number"
+msgstr ""
+
+#: framework/visual_composer.php:3119 framework/visual_composer.php:4134
+msgid "Number - Color"
+msgstr ""
+
+#: framework/visual_composer.php:3129 framework/visual_composer.php:4144
+msgid "Number - Color Custom"
+msgstr ""
+
+#: framework/visual_composer.php:3136
+msgid "Number - Font size (Add px)"
+msgstr ""
+
+#: framework/visual_composer.php:3152
+msgid "Extra class name"
+msgstr ""
+
+#: framework/visual_composer.php:3153
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: framework/visual_composer.php:3169
+msgid "Pricing Table"
+msgstr ""
+
+#: framework/visual_composer.php:3177
+msgid "Columns"
+msgstr ""
+
+#: framework/visual_composer.php:3179 framework/visual_composer.php:3801
+msgid "1"
+msgstr ""
+
+#: framework/visual_composer.php:3179 framework/visual_composer.php:3801
+msgid "2"
+msgstr ""
+
+#: framework/visual_composer.php:3179 framework/visual_composer.php:3801
+msgid "3"
+msgstr ""
+
+#: framework/visual_composer.php:3179 framework/visual_composer.php:3801
+msgid "4"
+msgstr ""
+
+#: framework/visual_composer.php:3179 framework/visual_composer.php:3801
+msgid "5"
+msgstr ""
+
+#: framework/visual_composer.php:3179 framework/visual_composer.php:3801
+msgid "6"
+msgstr ""
+
+#: framework/visual_composer.php:3196
+msgid "Pricing Column"
+msgstr ""
+
+#: framework/visual_composer.php:3210
+msgid "Popular Plan?"
+msgstr ""
+
+#: framework/visual_composer.php:3213
+msgid ""
+"Check to highlight this plan among others. You should check this only for a "
+"plan to keep your pricing table in good looks."
+msgstr ""
+
+#: framework/visual_composer.php:3218
+msgid "Popular reason"
+msgstr ""
+
+#: framework/visual_composer.php:3220
+msgid ""
+"Enter couple of words to show why this plan is popular. Example: Big savings."
+msgstr ""
+
+#: framework/visual_composer.php:3230
+msgid "Price"
+msgstr ""
+
+#: framework/visual_composer.php:3237
+msgid "Currency"
+msgstr ""
+
+#: framework/visual_composer.php:3244
+msgid "Price Term"
+msgstr ""
+
+#: framework/visual_composer.php:3245
+msgid "Enter term for the price of the plan. Example: Per Month."
+msgstr ""
+
+#: framework/visual_composer.php:3247
+msgid "Per Month"
+msgstr ""
+
+#: framework/visual_composer.php:3252 framework/visual_composer.php:3253
+msgid "Features"
+msgstr ""
+
+#: framework/visual_composer.php:3257
+msgid "This is included"
+msgstr ""
+
+#: framework/visual_composer.php:3260
+msgid "And this too"
+msgstr ""
+
+#: framework/visual_composer.php:3266
+msgid "Feature"
+msgstr ""
+
+#: framework/visual_composer.php:3268
+msgid "Enter features of the pricing plan."
+msgstr ""
+
+#: framework/visual_composer.php:3278
+msgid "Button Label"
+msgstr ""
+
+#: framework/visual_composer.php:3280
+msgid "Sign Up Now!"
+msgstr ""
+
+#: framework/visual_composer.php:3286
+msgid "Button Color"
+msgstr ""
+
+#: framework/visual_composer.php:3289
+msgid "Orange"
+msgstr ""
+
+#: framework/visual_composer.php:3289
+msgid "Green"
+msgstr ""
+
+#: framework/visual_composer.php:3289
+msgid "Red"
+msgstr ""
+
+#: framework/visual_composer.php:3289
+msgid "Blue"
+msgstr ""
+
+#: framework/visual_composer.php:3298
+msgid "Enter/Select URL for the button."
+msgstr ""
+
+#: framework/visual_composer.php:3314
+msgid "Timeline"
+msgstr ""
+
+#: framework/visual_composer.php:3341
+msgid "Timeline Item"
+msgstr ""
+
+#: framework/visual_composer.php:3348
+msgid "Timeline Content"
+msgstr ""
+
+#: framework/visual_composer.php:3350
+msgid "Add text to for the timeline item."
+msgstr ""
+
+#: framework/visual_composer.php:3354
+msgid "Month"
+msgstr ""
+
+#: framework/visual_composer.php:3356
+msgid "Select month for the timeline or roadmap."
+msgstr ""
+
+#: framework/visual_composer.php:3359
+msgid "January"
+msgstr ""
+
+#: framework/visual_composer.php:3360
+msgid "february"
+msgstr ""
+
+#: framework/visual_composer.php:3361
+msgid "March"
+msgstr ""
+
+#: framework/visual_composer.php:3362
+msgid "April"
+msgstr ""
+
+#: framework/visual_composer.php:3363
+msgid "May"
+msgstr ""
+
+#: framework/visual_composer.php:3364
+msgid "June"
+msgstr ""
+
+#: framework/visual_composer.php:3365
+msgid "July"
+msgstr ""
+
+#: framework/visual_composer.php:3366
+msgid "August"
+msgstr ""
+
+#: framework/visual_composer.php:3367
+msgid "September"
+msgstr ""
+
+#: framework/visual_composer.php:3368
+msgid "October"
+msgstr ""
+
+#: framework/visual_composer.php:3369
+msgid "November"
+msgstr ""
+
+#: framework/visual_composer.php:3370
+msgid "December"
+msgstr ""
+
+#: framework/visual_composer.php:3378
+msgid "Year"
+msgstr ""
+
+#: framework/visual_composer.php:3379
+msgid "Enter year for the roadmap or timeline"
+msgstr ""
+
+#: framework/visual_composer.php:3386
+msgid "Time stamp background color"
+msgstr ""
+
+#: framework/visual_composer.php:3388
+msgid "Choose color style to use as background of the month/year block."
+msgstr ""
+
+#: framework/visual_composer.php:3399
+msgid "Time stamp custom background color"
+msgstr ""
+
+#: framework/visual_composer.php:3418
+msgid "Social Profiles"
+msgstr ""
+
+#: framework/visual_composer.php:3423
+msgid "Website"
+msgstr ""
+
+#: framework/visual_composer.php:3425
+msgid "Choose social platform website."
+msgstr ""
+
+#: framework/visual_composer.php:3432
+msgid "Youtube"
+msgstr ""
+
+#: framework/visual_composer.php:3433
+msgid "Instagram"
+msgstr ""
+
+#: framework/visual_composer.php:3434
+msgid "Vimeo"
+msgstr ""
+
+#: framework/visual_composer.php:3435
+msgid "RSS"
+msgstr ""
+
+#: framework/visual_composer.php:3436
+msgid "Dropbox"
+msgstr ""
+
+#: framework/visual_composer.php:3437
+msgid "BitBucket"
+msgstr ""
+
+#: framework/visual_composer.php:3438
+msgid "Flickr"
+msgstr ""
+
+#: framework/visual_composer.php:3439
+msgid "FourSquare"
+msgstr ""
+
+#: framework/visual_composer.php:3440
+msgid "GitHub"
+msgstr ""
+
+#: framework/visual_composer.php:3441
+msgid "GitTip"
+msgstr ""
+
+#: framework/visual_composer.php:3443
+msgid "Pagelines"
+msgstr ""
+
+#: framework/visual_composer.php:3444
+msgid "Skype"
+msgstr ""
+
+#: framework/visual_composer.php:3445
+msgid "Tumblr"
+msgstr ""
+
+#: framework/visual_composer.php:3446
+msgid "TripAdvisor"
+msgstr ""
+
+#: framework/visual_composer.php:3447
+msgid "VK"
+msgstr ""
+
+#: framework/visual_composer.php:3448
+msgid "Email Address"
+msgstr ""
+
+#: framework/visual_composer.php:3456
+msgid "Enter your social profile URL."
+msgstr ""
+
+#: framework/visual_composer.php:3465
+msgid "Choose alignment of the icons"
+msgstr ""
+
+#: framework/visual_composer.php:3476
+msgid "Icons Shape"
+msgstr ""
+
+#: framework/visual_composer.php:3478
+msgid "Choose shape of icons"
+msgstr ""
+
+#: framework/visual_composer.php:3490
+msgid "Icons Size"
+msgstr ""
+
+#: framework/visual_composer.php:3492
+msgid "Choose size of icons"
+msgstr ""
+
+#: framework/visual_composer.php:3505
+msgid "Icons Custom Box Size"
+msgstr ""
+
+#: framework/visual_composer.php:3507
+msgid "Enter social icons custom box size in px. For example enter: 40px"
+msgstr ""
+
+#: framework/visual_composer.php:3515
+msgid "Icons Custom Spacing"
+msgstr ""
+
+#: framework/visual_composer.php:3517
+msgid ""
+"Enter social icons custom spacing between each icon in px. For example "
+"enter: 10px"
+msgstr ""
+
+#: framework/visual_composer.php:3525
+msgid "Icons Custom Font Size"
+msgstr ""
+
+#: framework/visual_composer.php:3527
+msgid "Enter social icons custom font size in px. For example enter: 20px"
+msgstr ""
+
+#: framework/visual_composer.php:3535
+msgid "Color Style"
+msgstr ""
+
+#: framework/visual_composer.php:3537
+msgid "Choose color scheme/style for icons."
+msgstr ""
+
+#: framework/visual_composer.php:3539 framework/visual_composer.php:3568
+msgid "Brands Color"
+msgstr ""
+
+#: framework/visual_composer.php:3542 framework/visual_composer.php:3571
+msgid "GrayScale"
+msgstr ""
+
+#: framework/visual_composer.php:3550
+msgid "Icons custom bg color"
+msgstr ""
+
+#: framework/visual_composer.php:3557
+msgid "Icons custom font color"
+msgstr ""
+
+#: framework/visual_composer.php:3564
+msgid "Hover Color Style"
+msgstr ""
+
+#: framework/visual_composer.php:3566
+msgid "Choose color scheme/style for icons hover."
+msgstr ""
+
+#: framework/visual_composer.php:3591
+msgid "Google Map"
+msgstr ""
+
+#: framework/visual_composer.php:3597
+msgid "API Key"
+msgstr ""
+
+#: framework/visual_composer.php:3599
+msgid ""
+"Enter your API key. Your map may not function correctly without one. Please "
+"ensure you have enabled the Geocoding API in the Google APIs Dashboard."
+msgstr ""
+
+#: framework/visual_composer.php:3599
+msgid "Get an API"
+msgstr ""
+
+#: framework/visual_composer.php:3603
+msgid "Width"
+msgstr ""
+
+#: framework/visual_composer.php:3605
+msgid ""
+"Width(px) of your map. If left blank then it will take 100% area of the "
+"container."
+msgstr ""
+
+#: framework/visual_composer.php:3609
+msgid "Height"
+msgstr ""
+
+#: framework/visual_composer.php:3611
+msgid "Height(px) of your map. Default is 300px."
+msgstr ""
+
+#: framework/visual_composer.php:3615
+msgid "Zoom Level"
+msgstr ""
+
+#: framework/visual_composer.php:3617
+msgid "A value from 0 (the world) to 21 (street level)."
+msgstr ""
+
+#: framework/visual_composer.php:3621
+msgid "Allow dragging the map to move it around."
+msgstr ""
+
+#: framework/visual_composer.php:3632
+msgid "Scroll to zoom"
+msgstr ""
+
+#: framework/visual_composer.php:3633
+msgid "Allow scrolling over the map to zoom in or out."
+msgstr ""
+
+#: framework/visual_composer.php:3650
+msgid "Copy and paste predefined styles here from."
+msgstr ""
+
+#: framework/visual_composer.php:3650
+msgid "Snazzy Maps"
+msgstr ""
+
+#: framework/visual_composer.php:3656
+msgid ""
+"The name of a place, town, city, or even a country. Can be an exact address "
+"too."
+msgstr ""
+
+#: framework/visual_composer.php:3661
+msgid "Marker Icon"
+msgstr ""
+
+#: framework/visual_composer.php:3662
+msgid "Replaces the default map marker with your own image."
+msgstr ""
+
+#: framework/visual_composer.php:3667
+msgid "Info window text"
+msgstr ""
+
+#: framework/visual_composer.php:3669
+msgid "Add text to show on the tooltip of the marker."
+msgstr ""
+
+#: framework/visual_composer.php:3673
+msgid "Info window max width"
+msgstr ""
+
+#: framework/visual_composer.php:3675
+msgid "Enter maximum width for info window. Enter in px for example 150px"
+msgstr ""
+
+#: framework/visual_composer.php:3679
+msgid "When should Info Windows be displayed?"
+msgstr ""
+
+#: framework/visual_composer.php:3682
+msgid "Click"
+msgstr ""
+
+#: framework/visual_composer.php:3683
+msgid "Mouse over"
+msgstr ""
+
+#: framework/visual_composer.php:3684
+msgid "Always"
+msgstr ""
+
+#: framework/visual_composer.php:3728
+msgid "Logo Carousel"
+msgstr ""
+
+#: framework/visual_composer.php:3735
+msgid "Images"
+msgstr ""
+
+#: framework/visual_composer.php:3738
+msgid "Select images from media library."
+msgstr ""
+
+#: framework/visual_composer.php:3742
+msgid "Image size"
+msgstr ""
+
+#: framework/visual_composer.php:3745
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height)."
+msgstr ""
+
+#: framework/visual_composer.php:3749
+msgid "Image opacity"
+msgstr ""
+
+#: framework/visual_composer.php:3752
+msgid "10%"
+msgstr ""
+
+#: framework/visual_composer.php:3753
+msgid "20%"
+msgstr ""
+
+#: framework/visual_composer.php:3754
+msgid "30%"
+msgstr ""
+
+#: framework/visual_composer.php:3755
+msgid "40%"
+msgstr ""
+
+#: framework/visual_composer.php:3756
+msgid "50%"
+msgstr ""
+
+#: framework/visual_composer.php:3757
+msgid "60%"
+msgstr ""
+
+#: framework/visual_composer.php:3758
+msgid "70%"
+msgstr ""
+
+#: framework/visual_composer.php:3759
+msgid "80%"
+msgstr ""
+
+#: framework/visual_composer.php:3760
+msgid "90%"
+msgstr ""
+
+#: framework/visual_composer.php:3761
+msgid "100%"
+msgstr ""
+
+#: framework/visual_composer.php:3763
+msgid "Select opacity from 10% to 100%."
+msgstr ""
+
+#: framework/visual_composer.php:3767
+msgid "On click action"
+msgstr ""
+
+#: framework/visual_composer.php:3770
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: framework/visual_composer.php:3772
+msgid "Open custom links"
+msgstr ""
+
+#: framework/visual_composer.php:3774
+msgid "Select action for click event."
+msgstr ""
+
+#: framework/visual_composer.php:3778
+msgid "Custom links"
+msgstr ""
+
+#: framework/visual_composer.php:3780
+msgid ""
+"Enter links for each slide (Note: divide links with linebreaks (Enter))."
+msgstr ""
+
+#: framework/visual_composer.php:3788
+msgid "Custom link target"
+msgstr ""
+
+#: framework/visual_composer.php:3790
+msgid "Select how to open custom links."
+msgstr ""
+
+#: framework/visual_composer.php:3799
+msgid "Logo per view"
+msgstr ""
+
+#: framework/visual_composer.php:3801
+msgid "7"
+msgstr ""
+
+#: framework/visual_composer.php:3801
+msgid "8"
+msgstr ""
+
+#: framework/visual_composer.php:3801
+msgid "9"
+msgstr ""
+
+#: framework/visual_composer.php:3801
+msgid "10"
+msgstr ""
+
+#: framework/visual_composer.php:3885
+msgid "Popup video button"
+msgstr ""
+
+#: framework/visual_composer.php:3892
+msgid "Video Link"
+msgstr ""
+
+#: framework/visual_composer.php:3894
+msgid "Enter link to video (YouTube or Vimeo)."
+msgstr ""
+
+#: framework/visual_composer.php:3901
+msgid "Enter title to show with the video button"
+msgstr ""
+
+#: framework/visual_composer.php:3923
+msgid "Button size"
+msgstr ""
+
+#: framework/visual_composer.php:3935
+msgid "Button shape"
+msgstr ""
+
+#: framework/visual_composer.php:3946
+msgid "Button Align"
+msgstr ""
+
+#: framework/visual_composer.php:3957
+msgid "Play icon - Color"
+msgstr ""
+
+#: framework/visual_composer.php:3967
+msgid "Play icon - Color Custom"
+msgstr ""
+
+#: framework/visual_composer.php:3974
+msgid "Play icon - Background Color"
+msgstr ""
+
+#: framework/visual_composer.php:3984
+msgid "Play icon - Background Color Custom"
+msgstr ""
+
+#: framework/visual_composer.php:4003
+msgid "Opening Hours"
+msgstr ""
+
+#: framework/visual_composer.php:4010
+msgid "Day row"
+msgstr ""
+
+#: framework/visual_composer.php:4014
+msgid "Monday"
+msgstr ""
+
+#: framework/visual_composer.php:4015 framework/visual_composer.php:4019
+msgid "09:00 to 05:00"
+msgstr ""
+
+#: framework/visual_composer.php:4018
+msgid "Tuesday"
+msgstr ""
+
+#: framework/visual_composer.php:4025
+msgid "Day"
+msgstr ""
+
+#: framework/visual_composer.php:4027
+msgid "Enter weekday"
+msgstr ""
+
+#: framework/visual_composer.php:4032
+msgid "Hours"
+msgstr ""
+
+#: framework/visual_composer.php:4034
+msgid "Enter working hours"
+msgstr ""
+
+#: framework/visual_composer.php:4044
+msgid "Separator border style"
+msgstr ""
+
+#: framework/visual_composer.php:4053
+msgid "Text Color"
+msgstr ""
+
+#: framework/visual_composer.php:4063
+msgid "Text Color Custom"
+msgstr ""
+
+#: framework/visual_composer.php:4082
+msgid "Stats Box"
+msgstr ""
+
+#: framework/visual_composer.php:4115
+msgid "Number"
+msgstr ""
+
+#: framework/visual_composer.php:4122
+msgid "Number subscript"
+msgstr ""
+
+#: framework/visual_composer.php:4128
+msgid "Number - Font Size (Add px)"
+msgstr ""
+
+#: framework/visual_composer.php:4212
+msgid "Enter/Select URL for the stats box."
+msgstr ""
+
+#: framework/visual_composer.php:4227
+msgid "Countdown Timer"
+msgstr ""
+
+#: framework/visual_composer.php:4237
+msgid "Light Background"
+msgstr ""
+
+#: framework/visual_composer.php:4238
+msgid "Dark Background"
+msgstr ""
+
+#: framework/visual_composer.php:4239
+msgid "Theme Colors Background"
+msgstr ""
+
+#: framework/visual_composer.php:4240
+msgid "Plain Light Text"
+msgstr ""
+
+#: framework/visual_composer.php:4241
+msgid "Plain Dark Text"
+msgstr ""
+
+#: framework/visual_composer.php:4250
+msgid "Compact"
+msgstr ""
+
+#: framework/visual_composer.php:4255
+msgid "End Date"
+msgstr ""
+
+#: framework/visual_composer.php:4256
+msgid ""
+"Enter countdown end date in this format yy/mm/dd. Fox example: 2018/12/01"
+msgstr ""
+
+#: functions.php:34
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:36
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:121
+msgid " says"
+msgstr ""
+
+#: functions.php:126
+msgid " at "
+msgstr ""
+
+#: functions.php:131
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: index.php:166 search.php:82 single.php:163
+msgid "Pages:"
+msgstr ""
+
+#: index.php:173 search.php:88
+msgid "Read more"
+msgstr ""
+
+#: index.php:182 search.php:98
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: index.php:183 search.php:99
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: pages-banner.php:65 pages-flex.php:28 woocommerce.php:41
+msgid "Shop"
+msgstr ""
+
+#: partials/featured-button3.php:4
+msgid "button"
+msgstr ""
+
+#: partials/widgets-opener-main.php:5 partials/widgets-opener.php:5
+msgid "Our Locations"
+msgstr ""
+
+#: search.php:40
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:92
+msgid "No results found. Try searching again"
+msgstr ""
+
+#: single.php:195
+msgid "Previous"
+msgstr ""
+
+#: single.php:198
+msgid "Next"
+msgstr ""
+
+#: vc_templates/blokco_countdown.php:8
+msgid "day"
+msgstr ""
+
+#: vc_templates/blokco_countdown.php:9
+msgid "hr"
+msgstr ""
+
+#: vc_templates/blokco_countdown.php:10
+msgid "min"
+msgstr ""
+
+#: vc_templates/blokco_countdown.php:11
+msgid "sec"
+msgstr ""
+
+#: vc_templates/blokco_project.php:79
+msgid "Show All"
+msgstr ""
+
+#: welcome.php:21
+msgid "Blokco Theme Urgent Message!"
+msgstr ""
+
+#: welcome.php:21
+msgid ""
+"Please install/update the Blokco core plugin now, its mandatory to keep this "
+"plugin always activated to use all features of this theme."
+msgstr ""
+
+#: welcome.php:21
+msgid "Install/Update plugin here"
+msgstr ""
+
+#: welcome.php:41
+msgid "Thanks for using Blokco Theme"
+msgstr ""
+
+#: welcome.php:42
+msgid ""
+" is now installed and ready to use! Please install/update and activate the "
+"core plugin from below to get all the features of this theme."
+msgstr ""
+
+#: welcome.php:57
+msgid "REQUIRED"
+msgstr ""
+
+#: welcome.php:63 welcome.php:91 welcome.php:96
+msgid "Add core features of theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://demo.imithemes.com/blokco/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<strong>Responsive WordPress Theme designed & developed for Crypto currency "
+"business websites, ICO landing pages and corporate websites by imithemes</"
+"strong> - <a href=\"http://www.imithemes.com\">www.imithemes.com</a>. Follow "
+"us for update notifications:<br/> <a href='http://twitter.com/"
+"imithemes'>Twitter</a><br/> | <a href='http://www.facebook.com/"
+"imithemes'>Facebook</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "imithemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "www.imithemes.com"
+msgstr ""

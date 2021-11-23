@@ -1,0 +1,46 @@
+<wpml-config>
+<admin-texts>
+<key name="blokco_options">
+ <key name="logo_upload"/>
+ <key name="retina_logo_upload"/>
+ <key name="feat_button_title1"/>
+ <key name="feat_button_url1"/>
+ <key name="feat_button_title2"/>
+ <key name="feat_button_url2"/>
+ <key name="feat_button_title3"/>
+ <key name="feat_button_url3"/>
+ <key name="topbar_opener_link_text"/>
+ <key name="mobile_header_menu_btn_text"/>
+ <key name="project_archive_title"/>
+ <key name="event_archive_title"/>
+ <key name="blog_archive_title"/>
+ <key name="service_archive_title"/>
+ <key name="team_archive_title"/>
+ <key name="shop_archive_title"/>
+ <key name="footer_copyright_text"/>
+ <key name="page_404_title"/>
+ <key name="share_before_text"/>
+ <key name="facebook_share_alt"/>
+ <key name="twitter_share_alt"/>
+ <key name="google_share_alt"/>
+ <key name="tumblr_share_alt"/>
+ <key name="pinterest_share_alt"/>
+ <key name="reddit_share_alt"/>
+ <key name="email_share_alt"/>
+ <key name="vk_share_alt"/>
+ <key name="whatsapp_share_alt"/>
+ <key name="page_404_content"/>
+ <key name="footer_widget_links"/>
+ <key name="footer_copyright_text"/>
+ <key name="footer_bottom_text"/>
+ <key name="footer_bottom_links"/>
+ <key name="sidebar_position"/>
+ <key name="post_single_sidebar"/>
+ <key name="page_sidebar"/>
+ <key name="post_category_sidebar"/>
+ <key name="search_sidebar"/>
+ <key name="post_slider_readmore"/>
+ <key name="post_readmore"/>
+</key>
+</admin-texts>
+</wpml-config>
